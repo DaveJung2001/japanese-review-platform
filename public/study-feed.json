@@ -1,0 +1,1711 @@
+{
+  "vocabulary": [
+    {
+      "id": "vocab_dekakeru_001",
+      "type": "vocab",
+      "kanji": "出かける",
+      "kana": "でかける",
+      "meaningKo": "외출하다, 나가다",
+      "partOfSpeech": "동사 / 2그룹",
+      "sourceLabel": "외출 가능 여부 표현",
+      "createdAt": "2026-06-30T06:30:00.000Z",
+      "updatedAt": "2026-06-30T06:30:00.000Z",
+      "examples": [
+        {
+          "ja": "日曜日は出かけません。",
+          "ko": "일요일은 외출하지 않습니다."
+        },
+        {
+          "ja": "今から友だちと出かけます。",
+          "ko": "지금부터 친구와 외출합니다."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_dekakeru_dictionary",
+          "label": "사전형",
+          "form": "出かける",
+          "reading": "でかける",
+          "transformation": "기본형입니다. 2그룹 동사이며 끝이 る로 끝납니다.",
+          "usage": "사전에서 찾는 형태, 보통체 현재·미래",
+          "example": {
+            "ja": "週末に出かける予定です。",
+            "ko": "주말에 외출할 예정입니다."
+          }
+        },
+        {
+          "id": "conj_dekakeru_masu",
+          "label": "ます형",
+          "form": "出かけます",
+          "reading": "でかけます",
+          "transformation": "2그룹 동사는 끝의 る를 빼고 ます를 붙입니다.",
+          "usage": "정중한 현재·미래 표현",
+          "example": {
+            "ja": "午後、少し出かけます。",
+            "ko": "오후에 잠깐 외출합니다."
+          }
+        },
+        {
+          "id": "conj_dekakeru_masen",
+          "label": "ます 부정",
+          "form": "出かけません",
+          "reading": "でかけません",
+          "transformation": "ます형 出かけます에서 ます를 ません으로 바꿉니다.",
+          "usage": "정중한 부정 표현",
+          "example": {
+            "ja": "今日は雨なので出かけません。",
+            "ko": "오늘은 비가 와서 외출하지 않습니다."
+          }
+        },
+        {
+          "id": "conj_dekakeru_te",
+          "label": "て형",
+          "form": "出かけて",
+          "reading": "でかけて",
+          "transformation": "2그룹 동사는 끝의 る를 빼고 て를 붙입니다.",
+          "usage": "연결, 부탁, 허락 표현에 사용",
+          "example": {
+            "ja": "出かけてもいいですか。",
+            "ko": "외출해도 될까요?"
+          }
+        },
+        {
+          "id": "conj_dekakeru_ta",
+          "label": "た형",
+          "form": "出かけた",
+          "reading": "でかけた",
+          "transformation": "2그룹 동사는 끝의 る를 빼고 た를 붙입니다.",
+          "usage": "보통체 과거 표현",
+          "example": {
+            "ja": "昨日、家族と出かけた。",
+            "ko": "어제 가족과 외출했다."
+          }
+        },
+        {
+          "id": "conj_dekakeru_nai",
+          "label": "ない형",
+          "form": "出かけない",
+          "reading": "でかけない",
+          "transformation": "2그룹 동사는 끝의 る를 빼고 ない를 붙입니다.",
+          "usage": "보통체 부정 표현",
+          "example": {
+            "ja": "体調が悪いので出かけない。",
+            "ko": "몸 상태가 안 좋아서 외출하지 않는다."
+          }
+        },
+        {
+          "id": "conj_dekakeru_nakatta",
+          "label": "ない 과거",
+          "form": "出かけなかった",
+          "reading": "でかけなかった",
+          "transformation": "ない형 出かけない에서 ない를 なかった로 바꿉니다.",
+          "usage": "보통체 과거 부정 표현",
+          "example": {
+            "ja": "先週は忙しくて出かけなかった。",
+            "ko": "지난주는 바빠서 외출하지 않았다."
+          }
+        },
+        {
+          "id": "conj_dekakeru_potential",
+          "label": "가능형",
+          "form": "出かけられる",
+          "reading": "でかけられる",
+          "transformation": "2그룹 동사는 끝의 る를 빼고 られる를 붙여 '~할 수 있다'를 만듭니다.",
+          "usage": "외출할 수 있다는 가능·상태 표현",
+          "example": {
+            "ja": "明日なら出かけられます。",
+            "ko": "내일이라면 외출할 수 있습니다."
+          }
+        },
+        {
+          "id": "conj_dekakeru_potential_polite",
+          "label": "가능형 정중",
+          "form": "出かけられます",
+          "reading": "でかけられます",
+          "transformation": "가능형 出かけられる에서 끝의 る를 빼고 ます를 붙입니다.",
+          "usage": "정중하게 '외출할 수 있습니다'라고 말할 때 사용",
+          "example": {
+            "ja": "今日、出かけられますか。",
+            "ko": "오늘 외출할 수 있나요?"
+          }
+        },
+        {
+          "id": "conj_dekakeru_ba",
+          "label": "ば형",
+          "form": "出かければ",
+          "reading": "でかければ",
+          "transformation": "2그룹 동사는 끝의 る를 れば로 바꿉니다.",
+          "usage": "'외출하면'이라는 조건 표현",
+          "example": {
+            "ja": "早く出かければ、間に合います。",
+            "ko": "빨리 외출하면 시간에 맞출 수 있습니다."
+          }
+        },
+        {
+          "id": "conj_dekakeru_tara",
+          "label": "たら형",
+          "form": "出かけたら",
+          "reading": "でかけたら",
+          "transformation": "た형 出かけた에 ら를 붙입니다.",
+          "usage": "'외출하면, 외출했더니'라는 조건·계기 표현",
+          "example": {
+            "ja": "出かけたら、連絡してください。",
+            "ko": "외출하면 연락해 주세요."
+          }
+        },
+        {
+          "id": "conj_dekakeru_volitional",
+          "label": "의지형",
+          "form": "出かけよう",
+          "reading": "でかけよう",
+          "transformation": "2그룹 동사는 끝의 る를 빼고 よう를 붙입니다.",
+          "usage": "'외출하자, 외출해야지'라는 의지·권유 표현",
+          "example": {
+            "ja": "天気がいいから出かけよう。",
+            "ko": "날씨가 좋으니까 외출하자."
+          }
+        },
+        {
+          "id": "conj_dekakeru_imperative",
+          "label": "명령형",
+          "form": "出かけろ",
+          "reading": "でかけろ",
+          "transformation": "2그룹 동사는 끝의 る를 ろ로 바꿉니다.",
+          "usage": "강한 명령 표현이라 일상에서는 주의해서 사용",
+          "example": {
+            "ja": "早く出かけろと言われました。",
+            "ko": "빨리 외출하라는 말을 들었습니다."
+          }
+        },
+        {
+          "id": "conj_dekakeru_progressive",
+          "label": "ている형",
+          "form": "出かけている",
+          "reading": "でかけている",
+          "transformation": "て형 出かけて에 いる를 붙입니다.",
+          "usage": "외출 중이거나 이미 나가 있는 상태",
+          "example": {
+            "ja": "母は今、出かけています。",
+            "ko": "어머니는 지금 외출 중입니다."
+          }
+        },
+        {
+          "id": "conj_dekakeru_causative",
+          "label": "사역형",
+          "form": "出かけさせる",
+          "reading": "でかけさせる",
+          "transformation": "2그룹 동사는 끝의 る를 빼고 させる를 붙입니다.",
+          "usage": "외출하게 하다, 외출하도록 허락하다",
+          "example": {
+            "ja": "子どもを一人で出かけさせません。",
+            "ko": "아이를 혼자 외출하게 하지 않습니다."
+          }
+        },
+        {
+          "id": "conj_dekakeru_causative_passive",
+          "label": "사역수동형",
+          "form": "出かけさせられる",
+          "reading": "でかけさせられる",
+          "transformation": "사역형 出かけさせる에서 끝의 る를 빼고 られる를 붙입니다.",
+          "usage": "외출하게 되다, 억지로 외출하게 되다",
+          "example": {
+            "ja": "急に用事で出かけさせられました。",
+            "ko": "갑자기 볼일 때문에 억지로 외출하게 되었습니다."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T06:30:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_dekiru_001",
+      "type": "vocab",
+      "kanji": "出来る",
+      "kana": "できる",
+      "meaningKo": "할 수 있다, 가능하다",
+      "partOfSpeech": "동사 / 2그룹",
+      "sourceLabel": "외출 가능 여부 표현",
+      "createdAt": "2026-06-30T06:30:00.000Z",
+      "updatedAt": "2026-06-30T06:30:00.000Z",
+      "examples": [
+        {
+          "ja": "日本語が少しできます。",
+          "ko": "일본어를 조금 할 수 있습니다."
+        },
+        {
+          "ja": "予約できますか。",
+          "ko": "예약할 수 있나요?"
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_dekiru_dictionary",
+          "label": "사전형",
+          "form": "できる",
+          "reading": "できる",
+          "transformation": "기본형입니다. 한자로는 出来る라고도 쓰지만 보통 히라가나로 많이 씁니다.",
+          "usage": "할 수 있다, 가능하다",
+          "example": {
+            "ja": "ここで勉強できます。",
+            "ko": "여기서 공부할 수 있습니다."
+          }
+        },
+        {
+          "id": "conj_dekiru_masu",
+          "label": "ます형",
+          "form": "できます",
+          "reading": "できます",
+          "transformation": "끝의 る를 빼고 ます를 붙입니다.",
+          "usage": "정중하게 가능 여부를 말할 때 사용",
+          "example": {
+            "ja": "今日、外出できますか。",
+            "ko": "오늘 외출할 수 있나요?"
+          }
+        },
+        {
+          "id": "conj_dekiru_masen",
+          "label": "ます 부정",
+          "form": "できません",
+          "reading": "できません",
+          "transformation": "できます에서 ます를 ません으로 바꿉니다.",
+          "usage": "정중한 불가능 표현",
+          "example": {
+            "ja": "今日は外出できません。",
+            "ko": "오늘은 외출할 수 없습니다."
+          }
+        },
+        {
+          "id": "conj_dekiru_te",
+          "label": "て형",
+          "form": "できて",
+          "reading": "できて",
+          "transformation": "끝의 る를 빼고 て를 붙입니다.",
+          "usage": "연결 표현",
+          "example": {
+            "ja": "準備ができてから出かけます。",
+            "ko": "준비가 된 뒤 외출합니다."
+          }
+        },
+        {
+          "id": "conj_dekiru_ta",
+          "label": "た형",
+          "form": "できた",
+          "reading": "できた",
+          "transformation": "끝의 る를 빼고 た를 붙입니다.",
+          "usage": "보통체 과거, '해냈다/가능했다'",
+          "example": {
+            "ja": "昨日は外出できた。",
+            "ko": "어제는 외출할 수 있었다."
+          }
+        },
+        {
+          "id": "conj_dekiru_nai",
+          "label": "ない형",
+          "form": "できない",
+          "reading": "できない",
+          "transformation": "끝의 る를 빼고 ない를 붙입니다.",
+          "usage": "보통체 불가능 표현",
+          "example": {
+            "ja": "今は外出できない。",
+            "ko": "지금은 외출할 수 없다."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T06:30:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_gaishutsu_001",
+      "type": "vocab",
+      "kanji": "外出",
+      "kana": "がいしゅつ",
+      "meaningKo": "외출",
+      "partOfSpeech": "명사 / する동사",
+      "sourceLabel": "외출 가능 여부 표현",
+      "createdAt": "2026-06-30T06:30:00.000Z",
+      "updatedAt": "2026-06-30T06:30:00.000Z",
+      "examples": [
+        {
+          "ja": "外出してもよろしいですか。",
+          "ko": "외출해도 괜찮겠습니까?"
+        },
+        {
+          "ja": "外出の予定があります。",
+          "ko": "외출 예정이 있습니다."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_gaishutsu_suru",
+          "label": "する형",
+          "form": "外出する",
+          "reading": "がいしゅつする",
+          "transformation": "명사 外出에 する를 붙여 동사처럼 씁니다.",
+          "usage": "외출하다",
+          "example": {
+            "ja": "昼休みに外出します。",
+            "ko": "점심시간에 외출합니다."
+          }
+        },
+        {
+          "id": "conj_gaishutsu_shimasu",
+          "label": "ます형",
+          "form": "外出します",
+          "reading": "がいしゅつします",
+          "transformation": "外出する의 する를 します로 바꿉니다.",
+          "usage": "정중하게 외출한다고 말할 때 사용",
+          "example": {
+            "ja": "午後二時に外出します。",
+            "ko": "오후 두 시에 외출합니다."
+          }
+        },
+        {
+          "id": "conj_gaishutsu_shite",
+          "label": "て형",
+          "form": "外出して",
+          "reading": "がいしゅつして",
+          "transformation": "外出する의 する를 して로 바꿉니다.",
+          "usage": "연결, 허락 표현에 사용",
+          "example": {
+            "ja": "少し外出してもいいですか。",
+            "ko": "잠깐 외출해도 될까요?"
+          }
+        },
+        {
+          "id": "conj_gaishutsu_dekiru",
+          "label": "가능 표현",
+          "form": "外出できる",
+          "reading": "がいしゅつできる",
+          "transformation": "する동사는 する를 できる로 바꿔 가능 표현을 만듭니다.",
+          "usage": "외출할 수 있다",
+          "example": {
+            "ja": "今日は外出できますか。",
+            "ko": "오늘은 외출할 수 있나요?"
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T06:30:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_tasukeru_001",
+      "type": "vocab",
+      "kanji": "助ける",
+      "kana": "たすける",
+      "meaningKo": "돕다, 구하다, 구조하다",
+      "partOfSpeech": "동사 / 2그룹",
+      "sourceLabel": "도움 요청 표현",
+      "createdAt": "2026-06-30T07:00:00.000Z",
+      "updatedAt": "2026-06-30T07:00:00.000Z",
+      "examples": [
+        {
+          "ja": "誰か助けてください。",
+          "ko": "누가 좀 도와주세요."
+        },
+        {
+          "ja": "困っている人を助けます。",
+          "ko": "곤란한 사람을 돕습니다."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_tasukeru_dictionary",
+          "label": "사전형",
+          "form": "助ける",
+          "reading": "たすける",
+          "transformation": "기본형입니다. 2그룹 동사이며 끝이 る로 끝납니다.",
+          "usage": "돕다, 구하다",
+          "example": {
+            "ja": "人を助ける仕事をしています。",
+            "ko": "사람을 돕는 일을 하고 있습니다."
+          }
+        },
+        {
+          "id": "conj_tasukeru_masu",
+          "label": "ます형",
+          "form": "助けます",
+          "reading": "たすけます",
+          "transformation": "2그룹 동사는 끝의 る를 빼고 ます를 붙입니다.",
+          "usage": "정중한 현재·미래 표현",
+          "example": {
+            "ja": "困ったときは助けます。",
+            "ko": "곤란할 때는 도와드립니다."
+          }
+        },
+        {
+          "id": "conj_tasukeru_te",
+          "label": "て형",
+          "form": "助けて",
+          "reading": "たすけて",
+          "transformation": "2그룹 동사는 끝의 る를 빼고 て를 붙입니다.",
+          "usage": "연결, 부탁, 긴급 요청에 사용",
+          "example": {
+            "ja": "助けてください。",
+            "ko": "도와주세요."
+          }
+        },
+        {
+          "id": "conj_tasukeru_ta",
+          "label": "た형",
+          "form": "助けた",
+          "reading": "たすけた",
+          "transformation": "2그룹 동사는 끝의 る를 빼고 た를 붙입니다.",
+          "usage": "보통체 과거 표현",
+          "example": {
+            "ja": "友だちが私を助けた。",
+            "ko": "친구가 나를 도와주었다."
+          }
+        },
+        {
+          "id": "conj_tasukeru_nai",
+          "label": "ない형",
+          "form": "助けない",
+          "reading": "たすけない",
+          "transformation": "2그룹 동사는 끝의 る를 빼고 ない를 붙입니다.",
+          "usage": "보통체 부정 표현",
+          "example": {
+            "ja": "危ない人は一人で助けないでください。",
+            "ko": "위험한 사람은 혼자 돕지 마세요."
+          }
+        },
+        {
+          "id": "conj_tasukeru_potential",
+          "label": "가능형",
+          "form": "助けられる",
+          "reading": "たすけられる",
+          "transformation": "2그룹 동사는 끝의 る를 빼고 られる를 붙여 가능형을 만듭니다.",
+          "usage": "도울 수 있다, 구할 수 있다",
+          "example": {
+            "ja": "今なら助けられます。",
+            "ko": "지금이라면 도울 수 있습니다."
+          }
+        },
+        {
+          "id": "conj_tasukeru_imperative_soft",
+          "label": "긴급 요청",
+          "form": "助けて！",
+          "reading": "たすけて",
+          "transformation": "て형 助けて만 크게 말해 긴급 구조 요청으로 씁니다.",
+          "usage": "위급할 때 외치는 표현",
+          "example": {
+            "ja": "助けて！誰か来てください！",
+            "ko": "도와주세요! 누가 와 주세요!"
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_tetsudau_001",
+      "type": "vocab",
+      "kanji": "手伝う",
+      "kana": "てつだう",
+      "meaningKo": "돕다, 거들다, 일을 도와주다",
+      "partOfSpeech": "동사 / 1그룹",
+      "sourceLabel": "도움 요청 표현",
+      "createdAt": "2026-06-30T07:00:00.000Z",
+      "updatedAt": "2026-06-30T07:00:00.000Z",
+      "examples": [
+        {
+          "ja": "荷物を運ぶのを手伝ってください。",
+          "ko": "짐 옮기는 것을 도와주세요."
+        },
+        {
+          "ja": "少し手伝ってもらえますか。",
+          "ko": "잠깐 도와주실 수 있나요?"
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_tetsudau_dictionary",
+          "label": "사전형",
+          "form": "手伝う",
+          "reading": "てつだう",
+          "transformation": "기본형입니다. う로 끝나는 1그룹 동사입니다.",
+          "usage": "일이나 작업을 도와주다",
+          "example": {
+            "ja": "引っ越しを手伝う予定です。",
+            "ko": "이사를 도울 예정입니다."
+          }
+        },
+        {
+          "id": "conj_tetsudau_masu",
+          "label": "ます형",
+          "form": "手伝います",
+          "reading": "てつだいます",
+          "transformation": "1그룹 동사 手伝う의 う를 い로 바꾸고 ます를 붙입니다.",
+          "usage": "정중한 현재·미래 표현",
+          "example": {
+            "ja": "私が手伝います。",
+            "ko": "제가 도와드리겠습니다."
+          }
+        },
+        {
+          "id": "conj_tetsudau_te",
+          "label": "て형",
+          "form": "手伝って",
+          "reading": "てつだって",
+          "transformation": "う로 끝나는 1그룹 동사는 촉음 っ + て가 되어 手伝って가 됩니다.",
+          "usage": "부탁, 연결 표현에 사용",
+          "example": {
+            "ja": "すみません、手伝ってください。",
+            "ko": "죄송하지만 도와주세요."
+          }
+        },
+        {
+          "id": "conj_tetsudau_ta",
+          "label": "た형",
+          "form": "手伝った",
+          "reading": "てつだった",
+          "transformation": "て형 手伝って의 て를 た로 바꿔 手伝った가 됩니다.",
+          "usage": "보통체 과거 표현",
+          "example": {
+            "ja": "昨日、母の仕事を手伝った。",
+            "ko": "어제 어머니 일을 도왔다."
+          }
+        },
+        {
+          "id": "conj_tetsudau_nai",
+          "label": "ない형",
+          "form": "手伝わない",
+          "reading": "てつだわない",
+          "transformation": "1그룹 동사 手伝う의 う를 わ로 바꾸고 ない를 붙입니다.",
+          "usage": "보통체 부정 표현",
+          "example": {
+            "ja": "今日は忙しいので手伝わない。",
+            "ko": "오늘은 바빠서 돕지 않는다."
+          }
+        },
+        {
+          "id": "conj_tetsudau_potential",
+          "label": "가능형",
+          "form": "手伝える",
+          "reading": "てつだえる",
+          "transformation": "1그룹 동사는 끝의 u단을 e단으로 바꾸고 る를 붙입니다. 手伝う는 手伝える가 됩니다.",
+          "usage": "도울 수 있다",
+          "example": {
+            "ja": "明日なら手伝えます。",
+            "ko": "내일이라면 도와줄 수 있습니다."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_yobu_001",
+      "type": "vocab",
+      "kanji": "呼ぶ",
+      "kana": "よぶ",
+      "meaningKo": "부르다, 호출하다",
+      "partOfSpeech": "동사 / 1그룹",
+      "sourceLabel": "도움 요청 표현",
+      "createdAt": "2026-06-30T07:00:00.000Z",
+      "updatedAt": "2026-06-30T07:00:00.000Z",
+      "examples": [
+        {
+          "ja": "警察を呼んでください。",
+          "ko": "경찰을 불러 주세요."
+        },
+        {
+          "ja": "救急車を呼んでください。",
+          "ko": "구급차를 불러 주세요."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_yobu_dictionary",
+          "label": "사전형",
+          "form": "呼ぶ",
+          "reading": "よぶ",
+          "transformation": "기본형입니다. ぶ로 끝나는 1그룹 동사입니다.",
+          "usage": "부르다, 호출하다",
+          "example": {
+            "ja": "タクシーを呼ぶことができますか。",
+            "ko": "택시를 부를 수 있나요?"
+          }
+        },
+        {
+          "id": "conj_yobu_masu",
+          "label": "ます형",
+          "form": "呼びます",
+          "reading": "よびます",
+          "transformation": "1그룹 동사 呼ぶ의 ぶ를 び로 바꾸고 ます를 붙입니다.",
+          "usage": "정중한 현재·미래 표현",
+          "example": {
+            "ja": "すぐに警察を呼びます。",
+            "ko": "바로 경찰을 부르겠습니다."
+          }
+        },
+        {
+          "id": "conj_yobu_te",
+          "label": "て형",
+          "form": "呼んで",
+          "reading": "よんで",
+          "transformation": "ぶ로 끝나는 1그룹 동사는 んで로 바뀝니다.",
+          "usage": "부탁, 연결 표현에 사용",
+          "example": {
+            "ja": "救急車を呼んでください。",
+            "ko": "구급차를 불러 주세요."
+          }
+        },
+        {
+          "id": "conj_yobu_ta",
+          "label": "た형",
+          "form": "呼んだ",
+          "reading": "よんだ",
+          "transformation": "て형 呼んで의 で를 だ로 바꿔 呼んだ가 됩니다.",
+          "usage": "보통체 과거 표현",
+          "example": {
+            "ja": "ホテルのスタッフを呼んだ。",
+            "ko": "호텔 직원을 불렀다."
+          }
+        },
+        {
+          "id": "conj_yobu_potential",
+          "label": "가능형",
+          "form": "呼べる",
+          "reading": "よべる",
+          "transformation": "1그룹 동사는 끝의 u단을 e단으로 바꾸고 る를 붙입니다. 呼ぶ는 呼べる가 됩니다.",
+          "usage": "부를 수 있다",
+          "example": {
+            "ja": "ここからタクシーを呼べますか。",
+            "ko": "여기서 택시를 부를 수 있나요?"
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_itai_001",
+      "type": "vocab",
+      "kanji": "痛い",
+      "kana": "いたい",
+      "meaningKo": "아프다, 통증이 있다, 아프게 느껴지다",
+      "partOfSpeech": "い형용사",
+      "sourceLabel": "도움 요청 표현",
+      "createdAt": "2026-06-30T07:00:00.000Z",
+      "updatedAt": "2026-06-30T07:00:00.000Z",
+      "examples": [
+        {
+          "ja": "頭が痛いです。",
+          "ko": "머리가 아파요."
+        },
+        {
+          "ja": "ここが痛いです。",
+          "ko": "여기가 아파요."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_itai_dictionary",
+          "label": "현재형",
+          "form": "痛い",
+          "reading": "いたい",
+          "transformation": "기본형입니다. い로 끝나는 い형용사입니다.",
+          "usage": "아프다",
+          "example": {
+            "ja": "足が痛いです。",
+            "ko": "발이 아파요."
+          }
+        },
+        {
+          "id": "conj_itai_past",
+          "label": "과거형",
+          "form": "痛かった",
+          "reading": "いたかった",
+          "transformation": "い형용사는 끝의 い를 빼고 かった를 붙입니다.",
+          "usage": "아팠다",
+          "example": {
+            "ja": "昨日はお腹が痛かったです。",
+            "ko": "어제는 배가 아팠어요."
+          }
+        },
+        {
+          "id": "conj_itai_negative",
+          "label": "부정형",
+          "form": "痛くない",
+          "reading": "いたくない",
+          "transformation": "い형용사는 끝의 い를 빼고 くない를 붙입니다.",
+          "usage": "아프지 않다",
+          "example": {
+            "ja": "今はあまり痛くないです。",
+            "ko": "지금은 별로 아프지 않아요."
+          }
+        },
+        {
+          "id": "conj_itai_te",
+          "label": "て형",
+          "form": "痛くて",
+          "reading": "いたくて",
+          "transformation": "い형용사는 끝의 い를 빼고 くて를 붙입니다.",
+          "usage": "이유나 연결 표현",
+          "example": {
+            "ja": "頭が痛くて、歩けません。",
+            "ko": "머리가 아파서 걸을 수 없습니다."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_nakusu_001",
+      "type": "vocab",
+      "kanji": "なくす",
+      "kana": "なくす",
+      "meaningKo": "잃어버리다, 없애다",
+      "partOfSpeech": "동사 / 1그룹",
+      "sourceLabel": "도움 요청 표현",
+      "createdAt": "2026-06-30T07:00:00.000Z",
+      "updatedAt": "2026-06-30T07:00:00.000Z",
+      "examples": [
+        {
+          "ja": "カバンをなくしました。",
+          "ko": "가방을 잃어버렸어요."
+        },
+        {
+          "ja": "財布をなくさないでください。",
+          "ko": "지갑을 잃어버리지 마세요."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_nakusu_dictionary",
+          "label": "사전형",
+          "form": "なくす",
+          "reading": "なくす",
+          "transformation": "기본형입니다. す로 끝나는 1그룹 동사입니다.",
+          "usage": "잃어버리다, 없애다",
+          "example": {
+            "ja": "旅行中にパスポートをなくすと大変です。",
+            "ko": "여행 중에 여권을 잃어버리면 큰일입니다."
+          }
+        },
+        {
+          "id": "conj_nakusu_masu",
+          "label": "ます형",
+          "form": "なくします",
+          "reading": "なくします",
+          "transformation": "1그룹 동사 なくす의 す를 し로 바꾸고 ます를 붙입니다.",
+          "usage": "정중한 현재·미래 표현",
+          "example": {
+            "ja": "よく鍵をなくします。",
+            "ko": "자주 열쇠를 잃어버립니다."
+          }
+        },
+        {
+          "id": "conj_nakusu_ta_polite",
+          "label": "ました형",
+          "form": "なくしました",
+          "reading": "なくしました",
+          "transformation": "ます형 なくします의 ます를 ました로 바꿉니다.",
+          "usage": "정중한 과거 표현",
+          "example": {
+            "ja": "カバンをなくしました。",
+            "ko": "가방을 잃어버렸어요."
+          }
+        },
+        {
+          "id": "conj_nakusu_te",
+          "label": "て형",
+          "form": "なくして",
+          "reading": "なくして",
+          "transformation": "す로 끝나는 1그룹 동사는 して로 바뀝니다.",
+          "usage": "연결 표현",
+          "example": {
+            "ja": "財布をなくして困っています。",
+            "ko": "지갑을 잃어버려서 곤란합니다."
+          }
+        },
+        {
+          "id": "conj_nakusu_nai",
+          "label": "ない형",
+          "form": "なくさない",
+          "reading": "なくさない",
+          "transformation": "1그룹 동사 なくす의 す를 さ로 바꾸고 ない를 붙입니다.",
+          "usage": "보통체 부정 표현",
+          "example": {
+            "ja": "大切なものをなくさないようにしてください。",
+            "ko": "중요한 물건을 잃어버리지 않도록 해 주세요."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_narau_001",
+      "type": "vocab",
+      "kanji": "習う",
+      "kana": "ならう",
+      "meaningKo": "배우다, 익히다",
+      "partOfSpeech": "동사 / 1그룹",
+      "sourceLabel": "배우다와 문화 표현",
+      "createdAt": "2026-06-30T07:20:00.000Z",
+      "updatedAt": "2026-06-30T07:20:00.000Z",
+      "examples": [
+        {
+          "ja": "先生に日本語を習いました。",
+          "ko": "선생님에게 일본어를 배웠습니다."
+        },
+        {
+          "ja": "日本語学校で日本文化を習っています。",
+          "ko": "일본어 학교에서 일본 문화를 배우고 있습니다."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_narau_dictionary",
+          "label": "사전형",
+          "form": "習う",
+          "reading": "ならう",
+          "transformation": "기본형입니다. う로 끝나는 1그룹 동사입니다.",
+          "usage": "선생님, 학원, 수업을 통해 배우다",
+          "example": {
+            "ja": "先生に漢字を習う予定です。",
+            "ko": "선생님에게 한자를 배울 예정입니다."
+          }
+        },
+        {
+          "id": "conj_narau_masu",
+          "label": "ます형",
+          "form": "習います",
+          "reading": "ならいます",
+          "transformation": "1그룹 동사 習う의 う를 い로 바꾸고 ます를 붙입니다.",
+          "usage": "정중한 현재·미래 표현",
+          "example": {
+            "ja": "毎週、日本語を習います。",
+            "ko": "매주 일본어를 배웁니다."
+          }
+        },
+        {
+          "id": "conj_narau_mashita",
+          "label": "ました형",
+          "form": "習いました",
+          "reading": "ならいました",
+          "transformation": "ます형 習います의 ます를 ました로 바꿉니다.",
+          "usage": "정중한 과거 표현",
+          "example": {
+            "ja": "先生に日本語を習いました。",
+            "ko": "선생님에게 일본어를 배웠습니다."
+          }
+        },
+        {
+          "id": "conj_narau_te",
+          "label": "て형",
+          "form": "習って",
+          "reading": "ならって",
+          "transformation": "う로 끝나는 1그룹 동사는 촉음 っ + て가 되어 習って가 됩니다.",
+          "usage": "연결, 진행 표현에 사용",
+          "example": {
+            "ja": "先生に習ってから、家で練習します。",
+            "ko": "선생님에게 배운 뒤 집에서 연습합니다."
+          }
+        },
+        {
+          "id": "conj_narau_ta",
+          "label": "た형",
+          "form": "習った",
+          "reading": "ならった",
+          "transformation": "て형 習って의 て를 た로 바꿔 習った가 됩니다.",
+          "usage": "보통체 과거 표현",
+          "example": {
+            "ja": "去年、ピアノを習った。",
+            "ko": "작년에 피아노를 배웠다."
+          }
+        },
+        {
+          "id": "conj_narau_nai",
+          "label": "ない형",
+          "form": "習わない",
+          "reading": "ならわない",
+          "transformation": "1그룹 동사 習う의 う를 わ로 바꾸고 ない를 붙입니다.",
+          "usage": "보통체 부정 표현",
+          "example": {
+            "ja": "今は英語を習わない。",
+            "ko": "지금은 영어를 배우지 않는다."
+          }
+        },
+        {
+          "id": "conj_narau_potential",
+          "label": "가능형",
+          "form": "習える",
+          "reading": "ならえる",
+          "transformation": "1그룹 동사는 끝의 u단을 e단으로 바꾸고 る를 붙입니다. 習う는 習える가 됩니다.",
+          "usage": "배울 수 있다",
+          "example": {
+            "ja": "この学校で茶道を習えます。",
+            "ko": "이 학교에서 다도를 배울 수 있습니다."
+          }
+        },
+        {
+          "id": "conj_narau_ba",
+          "label": "ば형",
+          "form": "習えば",
+          "reading": "ならえば",
+          "transformation": "1그룹 동사는 끝의 u단을 e단으로 바꾸고 ば를 붙입니다.",
+          "usage": "'배우면'이라는 조건 표현",
+          "example": {
+            "ja": "先生に習えば、早く上手になります。",
+            "ko": "선생님에게 배우면 빨리 잘하게 됩니다."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:20:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_manabu_001",
+      "type": "vocab",
+      "kanji": "学ぶ",
+      "kana": "まなぶ",
+      "meaningKo": "배우다, 학습하다, 깊이 있게 익히다",
+      "partOfSpeech": "동사 / 1그룹",
+      "sourceLabel": "배우다와 문화 표현",
+      "createdAt": "2026-06-30T07:20:00.000Z",
+      "updatedAt": "2026-06-30T07:20:00.000Z",
+      "examples": [
+        {
+          "ja": "歴史について学びました。",
+          "ko": "역사에 대해 배웠습니다."
+        },
+        {
+          "ja": "本を読んで日本文化を学びます。",
+          "ko": "책을 읽으며 일본 문화를 배웁니다."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_manabu_dictionary",
+          "label": "사전형",
+          "form": "学ぶ",
+          "reading": "まなぶ",
+          "transformation": "기본형입니다. ぶ로 끝나는 1그룹 동사입니다.",
+          "usage": "스스로 공부하거나 학문·지식을 깊이 배우다",
+          "example": {
+            "ja": "日本の歴史を学ぶのが好きです。",
+            "ko": "일본 역사를 배우는 것을 좋아합니다."
+          }
+        },
+        {
+          "id": "conj_manabu_masu",
+          "label": "ます형",
+          "form": "学びます",
+          "reading": "まなびます",
+          "transformation": "1그룹 동사 学ぶ의 ぶ를 び로 바꾸고 ます를 붙입니다.",
+          "usage": "정중한 현재·미래 표현",
+          "example": {
+            "ja": "大学で日本文化を学びます。",
+            "ko": "대학교에서 일본 문화를 배웁니다."
+          }
+        },
+        {
+          "id": "conj_manabu_mashita",
+          "label": "ました형",
+          "form": "学びました",
+          "reading": "まなびました",
+          "transformation": "ます형 学びます의 ます를 ました로 바꿉니다.",
+          "usage": "정중한 과거 표현",
+          "example": {
+            "ja": "歴史について学びました。",
+            "ko": "역사에 대해 배웠습니다."
+          }
+        },
+        {
+          "id": "conj_manabu_te",
+          "label": "て형",
+          "form": "学んで",
+          "reading": "まなんで",
+          "transformation": "ぶ로 끝나는 1그룹 동사는 んで로 바뀝니다.",
+          "usage": "연결, 방법 설명에 사용",
+          "example": {
+            "ja": "日本文化を学んで、旅行がもっと楽しくなりました。",
+            "ko": "일본 문화를 배우고 여행이 더 즐거워졌습니다."
+          }
+        },
+        {
+          "id": "conj_manabu_ta",
+          "label": "た형",
+          "form": "学んだ",
+          "reading": "まなんだ",
+          "transformation": "て형 学んで의 で를 だ로 바꿔 学んだ가 됩니다.",
+          "usage": "보통체 과거 표현",
+          "example": {
+            "ja": "この本で多くのことを学んだ。",
+            "ko": "이 책으로 많은 것을 배웠다."
+          }
+        },
+        {
+          "id": "conj_manabu_nai",
+          "label": "ない형",
+          "form": "学ばない",
+          "reading": "まなばない",
+          "transformation": "1그룹 동사 学ぶ의 ぶ를 ば로 바꾸고 ない를 붙입니다.",
+          "usage": "보통체 부정 표현",
+          "example": {
+            "ja": "興味がない分野はあまり学ばない。",
+            "ko": "흥미가 없는 분야는 별로 배우지 않는다."
+          }
+        },
+        {
+          "id": "conj_manabu_potential",
+          "label": "가능형",
+          "form": "学べる",
+          "reading": "まなべる",
+          "transformation": "1그룹 동사는 끝의 u단을 e단으로 바꾸고 る를 붙입니다. 学ぶ는 学べる가 됩니다.",
+          "usage": "배울 수 있다",
+          "example": {
+            "ja": "オンラインで日本文化を学べます。",
+            "ko": "온라인으로 일본 문화를 배울 수 있습니다."
+          }
+        },
+        {
+          "id": "conj_manabu_ba",
+          "label": "ば형",
+          "form": "学べば",
+          "reading": "まなべば",
+          "transformation": "1그룹 동사는 끝의 u단을 e단으로 바꾸고 ば를 붙입니다.",
+          "usage": "'배우면'이라는 조건 표현",
+          "example": {
+            "ja": "文化を学べば、言葉も理解しやすくなります。",
+            "ko": "문화를 배우면 언어도 이해하기 쉬워집니다."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:20:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_nihonbunka_001",
+      "type": "vocab",
+      "kanji": "日本文化",
+      "kana": "にほんぶんか",
+      "meaningKo": "일본 문화",
+      "partOfSpeech": "명사",
+      "sourceLabel": "배우다와 문화 표현",
+      "createdAt": "2026-06-30T07:20:00.000Z",
+      "updatedAt": "2026-06-30T07:20:00.000Z",
+      "examples": [
+        {
+          "ja": "日本文化について学びました。",
+          "ko": "일본 문화에 대해 배웠습니다."
+        },
+        {
+          "ja": "日本文化に興味があります。",
+          "ko": "일본 문화에 관심이 있습니다."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_nihonbunka_basic",
+          "label": "기본형",
+          "form": "日本文化",
+          "reading": "にほんぶんか",
+          "transformation": "日本은 일본, 文化는 문화라는 뜻입니다. 두 명사가 결합한 명사입니다.",
+          "usage": "일본 문화",
+          "example": {
+            "ja": "日本文化を学びます。",
+            "ko": "일본 문화를 배웁니다."
+          }
+        },
+        {
+          "id": "conj_nihonbunka_desu",
+          "label": "です형",
+          "form": "日本文化です",
+          "reading": "にほんぶんかです",
+          "transformation": "명사 日本文化 뒤에 です를 붙여 정중하게 말합니다.",
+          "usage": "'일본 문화입니다'라고 설명할 때 사용",
+          "example": {
+            "ja": "これは日本文化です。",
+            "ko": "이것은 일본 문화입니다."
+          }
+        },
+        {
+          "id": "conj_nihonbunka_nitsuite",
+          "label": "について",
+          "form": "日本文化について",
+          "reading": "にほんぶんかについて",
+          "transformation": "명사 뒤에 について를 붙여 '~에 대해'라는 뜻을 만듭니다.",
+          "usage": "일본 문화에 대해",
+          "example": {
+            "ja": "日本文化について学びました。",
+            "ko": "일본 문화에 대해 배웠습니다."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:20:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_dentoubunka_001",
+      "type": "vocab",
+      "kanji": "伝統文化",
+      "kana": "でんとうぶんか",
+      "meaningKo": "전통 문화",
+      "partOfSpeech": "명사",
+      "sourceLabel": "배우다와 문화 표현",
+      "createdAt": "2026-06-30T07:20:00.000Z",
+      "updatedAt": "2026-06-30T07:20:00.000Z",
+      "examples": [
+        {
+          "ja": "日本の伝統文化を学びました。",
+          "ko": "일본의 전통 문화를 배웠습니다."
+        },
+        {
+          "ja": "伝統文化を大切にします。",
+          "ko": "전통 문화를 소중히 여깁니다."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_dentoubunka_basic",
+          "label": "기본형",
+          "form": "伝統文化",
+          "reading": "でんとうぶんか",
+          "transformation": "伝統은 전통, 文化는 문화라는 뜻입니다. 두 명사가 결합한 명사입니다.",
+          "usage": "전통 문화",
+          "example": {
+            "ja": "伝統文化を守ります。",
+            "ko": "전통 문화를 지킵니다."
+          }
+        },
+        {
+          "id": "conj_dentoubunka_no",
+          "label": "の 연결",
+          "form": "日本の伝統文化",
+          "reading": "にほんのでんとうぶんか",
+          "transformation": "명사 日本 뒤에 の를 붙여 뒤의 명사 伝統文化를 꾸밉니다.",
+          "usage": "일본의 전통 문화",
+          "example": {
+            "ja": "日本の伝統文化について学びます。",
+            "ko": "일본의 전통 문화에 대해 배웁니다."
+          }
+        },
+        {
+          "id": "conj_dentoubunka_nitsuite",
+          "label": "について",
+          "form": "伝統文化について",
+          "reading": "でんとうぶんかについて",
+          "transformation": "명사 뒤에 について를 붙여 '~에 대해'라는 뜻을 만듭니다.",
+          "usage": "전통 문화에 대해",
+          "example": {
+            "ja": "伝統文化について学びました。",
+            "ko": "전통 문화에 대해 배웠습니다."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:20:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "id": "grammar_vtemoii_001",
+      "type": "grammar",
+      "pattern": "Vてもいいですか",
+      "meaningKo": "~해도 될까요?",
+      "explanationKo": "상대에게 허락을 구할 때 쓰는 표현입니다. '외출할 수 있나요?'보다 '나가도 괜찮나요?'에 가깝습니다.",
+      "formation": "동사의 て형 + もいいですか",
+      "sourceLabel": "외출 가능 여부 표현",
+      "createdAt": "2026-06-30T06:30:00.000Z",
+      "updatedAt": "2026-06-30T06:30:00.000Z",
+      "examples": [
+        {
+          "ja": "出かけてもいいですか。",
+          "ko": "외출해도 될까요?"
+        },
+        {
+          "ja": "ここで写真を撮ってもいいですか。",
+          "ko": "여기서 사진을 찍어도 될까요?"
+        }
+      ],
+      "notes": [
+        "허락을 구할 때 가장 자연스러운 기본 표현입니다.",
+        "더 정중하게는 外出してもよろしいですか를 쓸 수 있습니다."
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T06:30:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_vmasuka_001",
+      "type": "grammar",
+      "pattern": "Vますか",
+      "meaningKo": "~하나요? / ~하시나요?",
+      "explanationKo": "상대가 어떤 행동을 하는지 묻는 표현입니다. 허락이 아니라 행동 여부를 묻습니다.",
+      "formation": "동사의 ます형 + か",
+      "sourceLabel": "외출 가능 여부 표현",
+      "createdAt": "2026-06-30T06:30:00.000Z",
+      "updatedAt": "2026-06-30T06:30:00.000Z",
+      "examples": [
+        {
+          "ja": "今日、出かけますか。",
+          "ko": "오늘 외출하시나요?"
+        },
+        {
+          "ja": "週末はどこかへ出かけますか。",
+          "ko": "주말에는 어디론가 외출하시나요?"
+        }
+      ],
+      "notes": [
+        "출결 확인이나 행동 예정 확인에 쓸 수 있습니다.",
+        "허락을 구하는 문장과 헷갈리지 않도록 주의합니다."
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T06:30:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_vrukotoga_dekimasu_001",
+      "type": "grammar",
+      "pattern": "Vることができますか",
+      "meaningKo": "~할 수 있나요?",
+      "explanationKo": "동사를 명사처럼 만든 뒤 できますか를 붙여 가능 여부를 묻는 표현입니다. 정확하지만 회화에서는 가능형보다 길게 들릴 수 있습니다.",
+      "formation": "동사 사전형 + こと + が + できますか",
+      "sourceLabel": "외출 가능 여부 표현",
+      "createdAt": "2026-06-30T06:30:00.000Z",
+      "updatedAt": "2026-06-30T06:30:00.000Z",
+      "examples": [
+        {
+          "ja": "今日、出かけることができますか。",
+          "ko": "오늘 외출할 수 있나요?"
+        },
+        {
+          "ja": "ここで予約することができますか。",
+          "ko": "여기서 예약할 수 있나요?"
+        }
+      ],
+      "notes": [
+        "가능형을 모를 때도 만들기 쉬운 표현입니다.",
+        "일상 회화에서는 出かけられますか가 더 간결합니다."
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T06:30:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_potential_001",
+      "type": "grammar",
+      "pattern": "가능형 + ますか",
+      "meaningKo": "~할 수 있나요?",
+      "explanationKo": "동사 자체를 '~할 수 있다' 형태로 바꾼 뒤 정중형으로 묻는 표현입니다. 일본어 회화에서 자주 쓰입니다.",
+      "formation": "1그룹: u단을 e단 + る / 2그룹: る 삭제 + られる / する: できる / 来る: 来られる",
+      "sourceLabel": "외출 가능 여부 표현",
+      "createdAt": "2026-06-30T06:30:00.000Z",
+      "updatedAt": "2026-06-30T06:30:00.000Z",
+      "examples": [
+        {
+          "ja": "出かけられますか。",
+          "ko": "외출할 수 있나요?"
+        },
+        {
+          "ja": "明日、来られますか。",
+          "ko": "내일 올 수 있나요?"
+        },
+        {
+          "ja": "ここで買えますか。",
+          "ko": "여기서 살 수 있나요?"
+        }
+      ],
+      "notes": [
+        "出かける는 2그룹이라 出かけられる가 됩니다.",
+        "出かけることができますか보다 짧고 자연스럽게 들립니다."
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T06:30:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_formal_permission_001",
+      "type": "grammar",
+      "pattern": "外出してもよろしいですか",
+      "meaningKo": "외출해도 괜찮겠습니까?",
+      "explanationKo": "비즈니스, 학교, 병원, 호텔처럼 더 정중하게 허락을 구해야 하는 상황에서 쓰기 좋은 표현입니다.",
+      "formation": "外出する의 て형 外出して + もよろしいですか",
+      "sourceLabel": "외출 가능 여부 표현",
+      "createdAt": "2026-06-30T06:30:00.000Z",
+      "updatedAt": "2026-06-30T06:30:00.000Z",
+      "examples": [
+        {
+          "ja": "少し外出してもよろしいですか。",
+          "ko": "잠깐 외출해도 괜찮겠습니까?"
+        },
+        {
+          "ja": "昼休みに外出してもよろしいですか。",
+          "ko": "점심시간에 외출해도 괜찮겠습니까?"
+        }
+      ],
+      "notes": [
+        "友だち 사이에서는 너무 딱딱하게 들릴 수 있습니다.",
+        "일상에서는 出かけてもいいですか가 더 자연스럽습니다."
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T06:30:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_tasuketekudasai_001",
+      "type": "grammar",
+      "pattern": "助けてください",
+      "meaningKo": "도와주세요 / 구해주세요",
+      "explanationKo": "사고, 범죄, 조난처럼 생명이나 안전에 위협이 있을 때 쓰는 긴급 구조 요청 표현입니다.",
+      "formation": "助ける의 て형 助けて + ください",
+      "sourceLabel": "도움 요청 표현",
+      "createdAt": "2026-06-30T07:00:00.000Z",
+      "updatedAt": "2026-06-30T07:00:00.000Z",
+      "examples": [
+        {
+          "ja": "助けてください！",
+          "ko": "도와주세요!"
+        },
+        {
+          "ja": "誰か助けてください！",
+          "ko": "누가 좀 도와주세요!"
+        }
+      ],
+      "notes": [
+        "긴급하거나 위험한 상황에서 쓰는 표현입니다.",
+        "너무 급할 때는 助けて！만 외쳐도 됩니다.",
+        "가벼운 일손 도움에는 手伝ってください가 더 자연스럽습니다."
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_tetsudattekudasai_001",
+      "type": "grammar",
+      "pattern": "手伝ってください",
+      "meaningKo": "도와주세요 / 거들어 주세요",
+      "explanationKo": "무거운 짐, 길 찾기, 업무, 작업처럼 가벼운 도움이나 일손을 요청할 때 쓰는 표현입니다.",
+      "formation": "手伝う의 て형 手伝って + ください",
+      "sourceLabel": "도움 요청 표현",
+      "createdAt": "2026-06-30T07:00:00.000Z",
+      "updatedAt": "2026-06-30T07:00:00.000Z",
+      "examples": [
+        {
+          "ja": "荷物を運ぶのを手伝ってください。",
+          "ko": "짐 옮기는 것을 도와주세요."
+        },
+        {
+          "ja": "この書類を整理するのを手伝ってください。",
+          "ko": "이 서류 정리하는 것을 도와주세요."
+        }
+      ],
+      "notes": [
+        "手伝って의 って는 작은 っ 때문에 잠깐 막히는 소리로 발음합니다.",
+        "위급 상황에서는 긴장감이 약하므로 助けてください를 씁니다."
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_nwo_yondekudasai_001",
+      "type": "grammar",
+      "pattern": "Nを呼んでください",
+      "meaningKo": "N을/를 불러 주세요",
+      "explanationKo": "경찰, 구급차, 직원, 택시처럼 누군가 또는 무언가를 불러 달라고 요청할 때 씁니다.",
+      "formation": "명사 + を + 呼ぶ의 て형 呼んで + ください",
+      "sourceLabel": "도움 요청 표현",
+      "createdAt": "2026-06-30T07:00:00.000Z",
+      "updatedAt": "2026-06-30T07:00:00.000Z",
+      "examples": [
+        {
+          "ja": "警察を呼んでください。",
+          "ko": "경찰을 불러 주세요."
+        },
+        {
+          "ja": "救急車を呼んでください。",
+          "ko": "구급차를 불러 주세요."
+        },
+        {
+          "ja": "スタッフを呼んでください。",
+          "ko": "직원을 불러 주세요."
+        }
+      ],
+      "notes": [
+        "呼ぶ는 ぶ로 끝나는 1그룹 동사라 て형이 呼んで가 됩니다.",
+        "긴급 상황에서는 짧고 또렷하게 말하는 것이 좋습니다."
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_itaidesu_001",
+      "type": "grammar",
+      "pattern": "痛いです",
+      "meaningKo": "아파요",
+      "explanationKo": "몸이 아프거나 특정 부위에 통증이 있을 때 쓰는 기본 표현입니다.",
+      "formation": "아픈 부위 + が + 痛いです",
+      "sourceLabel": "도움 요청 표현",
+      "createdAt": "2026-06-30T07:00:00.000Z",
+      "updatedAt": "2026-06-30T07:00:00.000Z",
+      "examples": [
+        {
+          "ja": "頭が痛いです。",
+          "ko": "머리가 아파요."
+        },
+        {
+          "ja": "お腹が痛いです。",
+          "ko": "배가 아파요."
+        },
+        {
+          "ja": "ここが痛いです。",
+          "ko": "여기가 아파요."
+        }
+      ],
+      "notes": [
+        "아픈 부위를 모르면 ここが痛いです라고 말하며 가리킬 수 있습니다.",
+        "응급 상황에서는 救急車を呼んでください와 함께 외우면 좋습니다."
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_nwo_nakushimashita_001",
+      "type": "grammar",
+      "pattern": "Nをなくしました",
+      "meaningKo": "N을/를 잃어버렸어요",
+      "explanationKo": "가방, 지갑, 여권처럼 물건을 잃어버렸다고 말할 때 쓰는 표현입니다.",
+      "formation": "명사 + を + なくす의 ました형 なくしました",
+      "sourceLabel": "도움 요청 표현",
+      "createdAt": "2026-06-30T07:00:00.000Z",
+      "updatedAt": "2026-06-30T07:00:00.000Z",
+      "examples": [
+        {
+          "ja": "カバンをなくしました。",
+          "ko": "가방을 잃어버렸어요."
+        },
+        {
+          "ja": "財布をなくしました。",
+          "ko": "지갑을 잃어버렸어요."
+        },
+        {
+          "ja": "パスポートをなくしました。",
+          "ko": "여권을 잃어버렸어요."
+        }
+      ],
+      "notes": [
+        "분실 신고나 호텔, 역, 경찰서에서 유용합니다.",
+        "カバン은 가방이라는 뜻의 외래어 표기입니다."
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_nini_nwo_naraimashita_001",
+      "type": "grammar",
+      "pattern": "사람に Nを習いました",
+      "meaningKo": "사람에게 N을 배웠습니다",
+      "explanationKo": "선생님, 학원, 강사처럼 누군가에게 기술이나 지식을 배웠을 때 쓰는 표현입니다.",
+      "formation": "가르쳐 준 사람 + に + 배운 내용 + を + 習いました",
+      "sourceLabel": "배우다와 문화 표현",
+      "createdAt": "2026-06-30T07:20:00.000Z",
+      "updatedAt": "2026-06-30T07:20:00.000Z",
+      "examples": [
+        {
+          "ja": "先生に日本語を習いました。",
+          "ko": "선생님에게 일본어를 배웠습니다."
+        },
+        {
+          "ja": "先生に漢字を習いました。",
+          "ko": "선생님에게 한자를 배웠습니다."
+        },
+        {
+          "ja": "日本語学校で日本文化を習いました。",
+          "ko": "일본어 학교에서 일본 문화를 배웠습니다."
+        }
+      ],
+      "notes": [
+        "習う는 선생님이나 학원처럼 누군가에게 배우는 느낌이 강합니다.",
+        "사람에게 배울 때는 に를 쓰고, 배운 내용에는 を를 씁니다."
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:20:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_nitsuite_manabimashita_001",
+      "type": "grammar",
+      "pattern": "Nについて学びました",
+      "meaningKo": "N에 대해 배웠습니다",
+      "explanationKo": "역사, 문화, 학문처럼 어떤 주제에 대해 스스로 공부하거나 깊이 있게 배웠을 때 쓰는 표현입니다.",
+      "formation": "주제 명사 + について + 学びました",
+      "sourceLabel": "배우다와 문화 표현",
+      "createdAt": "2026-06-30T07:20:00.000Z",
+      "updatedAt": "2026-06-30T07:20:00.000Z",
+      "examples": [
+        {
+          "ja": "歴史について学びました。",
+          "ko": "역사에 대해 배웠습니다."
+        },
+        {
+          "ja": "日本文化について学びました。",
+          "ko": "일본 문화에 대해 배웠습니다."
+        },
+        {
+          "ja": "伝統文化について学びました。",
+          "ko": "전통 문화에 대해 배웠습니다."
+        }
+      ],
+      "notes": [
+        "学ぶ는 독학, 연구, 학문적인 배움에 잘 어울립니다.",
+        "について는 '~에 대해'라는 뜻이라 주제 설명에 자주 씁니다."
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:20:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_nwo_manabu_001",
+      "type": "grammar",
+      "pattern": "Nを学びます",
+      "meaningKo": "N을 배웁니다",
+      "explanationKo": "주제나 학문, 문화 등을 목적어로 두고 배우거나 학습한다고 말할 때 쓰는 표현입니다.",
+      "formation": "배울 내용 + を + 学びます",
+      "sourceLabel": "배우다와 문화 표현",
+      "createdAt": "2026-06-30T07:20:00.000Z",
+      "updatedAt": "2026-06-30T07:20:00.000Z",
+      "examples": [
+        {
+          "ja": "日本文化を学びます。",
+          "ko": "일본 문화를 배웁니다."
+        },
+        {
+          "ja": "日本の伝統文化を学びます。",
+          "ko": "일본의 전통 문화를 배웁니다."
+        },
+        {
+          "ja": "本を読んで歴史を学びます。",
+          "ko": "책을 읽으며 역사를 배웁니다."
+        }
+      ],
+      "notes": [
+        "を는 배우는 대상, 즉 목적어를 표시합니다.",
+        "수업에서 직접 배우는 뉘앙스를 강조하면 習います도 가능합니다."
+      ],
+      "srs": {
+        "dueAt": "2026-06-30T07:20:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    }
+  ]
+}
