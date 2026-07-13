@@ -1259,6 +1259,939 @@
         "reviews": 0,
         "lapses": 0
       }
+    },
+    {
+      "id": "vocab_okuru_001",
+      "type": "vocab",
+      "kanji": "送る",
+      "kana": "おくる",
+      "meaningKo": "보내다",
+      "partOfSpeech": "동사 / 1그룹",
+      "sourceLabel": "ない형과 きます 구분",
+      "createdAt": "2026-07-13T00:00:00.000Z",
+      "updatedAt": "2026-07-13T00:00:00.000Z",
+      "examples": [
+        {
+          "ja": "プレゼントを送ります。",
+          "reading": "プレゼントをおくります。",
+          "ko": "선물을 보냅니다."
+        },
+        {
+          "ja": "友だちにメールを送ります。",
+          "reading": "ともだちにメールをおくります。",
+          "ko": "친구에게 메일을 보냅니다."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_okuru_dictionary",
+          "label": "사전형",
+          "form": "送る",
+          "reading": "おくる",
+          "transformation": "기본형입니다. る로 끝나지만 1그룹 동사입니다.",
+          "usage": "보통체 현재·미래, 사전에서 찾는 형태",
+          "example": {
+            "ja": "友だちにプレゼントを送る。",
+            "reading": "ともだちにプレゼントをおくる。",
+            "ko": "친구에게 선물을 보낸다."
+          }
+        },
+        {
+          "id": "conj_okuru_masu",
+          "label": "ます형",
+          "form": "送ります",
+          "reading": "おくります",
+          "transformation": "1그룹 동사 送る의 끝 る를 り로 바꾸고 ます를 붙입니다.",
+          "usage": "정중한 현재·미래 표현",
+          "example": {
+            "ja": "明日、メールを送ります。",
+            "reading": "あした、メールをおくります。",
+            "ko": "내일 메일을 보냅니다."
+          }
+        },
+        {
+          "id": "conj_okuru_nai",
+          "label": "ない형",
+          "form": "送らない",
+          "reading": "おくらない",
+          "transformation": "送ります에서 ます를 빼면 送り입니다. 1그룹 규칙으로 り를 あ단의 ら로 바꾸고 ない를 붙입니다. おくりない가 아니라 おくらない입니다.",
+          "usage": "보통체 부정 표현",
+          "example": {
+            "ja": "今日はメールを送らない。",
+            "reading": "きょうはメールをおくらない。",
+            "ko": "오늘은 메일을 보내지 않는다."
+          }
+        },
+        {
+          "id": "conj_okuru_nakatta",
+          "label": "ない 과거",
+          "form": "送らなかった",
+          "reading": "おくらなかった",
+          "transformation": "ない형 送らない에서 ない를 なかった로 바꿉니다.",
+          "usage": "보통체 과거 부정 표현",
+          "example": {
+            "ja": "昨日はメールを送らなかった。",
+            "reading": "きのうはメールをおくらなかった。",
+            "ko": "어제는 메일을 보내지 않았다."
+          }
+        },
+        {
+          "id": "conj_okuru_te",
+          "label": "て형",
+          "form": "送って",
+          "reading": "おくって",
+          "transformation": "る로 끝나는 1그룹 동사는 って로 바뀌는 경우가 많습니다. 送る는 送って가 됩니다.",
+          "usage": "연결, 부탁 표현",
+          "example": {
+            "ja": "写真を送ってください。",
+            "reading": "しゃしんをおくってください。",
+            "ko": "사진을 보내 주세요."
+          }
+        },
+        {
+          "id": "conj_okuru_ta",
+          "label": "た형",
+          "form": "送った",
+          "reading": "おくった",
+          "transformation": "て형 送って의 て를 た로 바꿉니다.",
+          "usage": "보통체 과거 표현",
+          "example": {
+            "ja": "昨日、荷物を送った。",
+            "reading": "きのう、にもつをおくった。",
+            "ko": "어제 짐을 보냈다."
+          }
+        },
+        {
+          "id": "conj_okuru_potential",
+          "label": "가능형",
+          "form": "送れる",
+          "reading": "おくれる",
+          "transformation": "1그룹 동사는 끝 음을 e단으로 바꾸고 る를 붙입니다. る는 れる가 됩니다.",
+          "usage": "보낼 수 있다는 가능 표현",
+          "example": {
+            "ja": "ここから荷物を送れる。",
+            "reading": "ここからにもつをおくれる。",
+            "ko": "여기서 짐을 보낼 수 있다."
+          }
+        },
+        {
+          "id": "conj_okuru_passive",
+          "label": "수동형",
+          "form": "送られる",
+          "reading": "おくられる",
+          "transformation": "1그룹 동사는 あ단으로 바꾸고 れる를 붙입니다. る는 られる가 됩니다.",
+          "usage": "보내지다, 보내 받다",
+          "example": {
+            "ja": "手紙が家に送られました。",
+            "reading": "てがみがいえにおくられました。",
+            "ko": "편지가 집으로 보내졌습니다."
+          }
+        },
+        {
+          "id": "conj_okuru_causative",
+          "label": "사역형",
+          "form": "送らせる",
+          "reading": "おくらせる",
+          "transformation": "1그룹 동사는 あ단으로 바꾸고 せる를 붙입니다. る는 らせる가 됩니다.",
+          "usage": "보내게 하다",
+          "example": {
+            "ja": "子どもにメールを送らせました。",
+            "reading": "こどもにメールをおくらせました。",
+            "ko": "아이에게 메일을 보내게 했습니다."
+          }
+        },
+        {
+          "id": "conj_okuru_causative_passive",
+          "label": "사역수동형",
+          "form": "送らせられる",
+          "reading": "おくらせられる",
+          "transformation": "사역형 送らせる에 수동의 られる가 이어진 형태입니다.",
+          "usage": "억지로 보내게 되다",
+          "example": {
+            "ja": "仕事で資料を送らせられました。",
+            "reading": "しごとでしりょうをおくらせられました。",
+            "ko": "일 때문에 자료를 억지로 보내게 되었습니다."
+          }
+        },
+        {
+          "id": "conj_okuru_volitional",
+          "label": "의지형",
+          "form": "送ろう",
+          "reading": "おくろう",
+          "transformation": "1그룹 동사는 끝 음을 o단으로 바꾸고 う를 붙입니다. る는 ろう가 됩니다.",
+          "usage": "보내자, 보내야지",
+          "example": {
+            "ja": "あとでメールを送ろう。",
+            "reading": "あとでメールをおくろう。",
+            "ko": "나중에 메일을 보내자."
+          }
+        },
+        {
+          "id": "conj_okuru_imperative",
+          "label": "명령형",
+          "form": "送れ",
+          "reading": "おくれ",
+          "transformation": "1그룹 동사는 끝 음을 e단으로 바꿉니다. る는 れ가 됩니다.",
+          "usage": "강한 명령 표현이라 사용에 주의",
+          "example": {
+            "ja": "すぐに資料を送れと言われました。",
+            "reading": "すぐにしりょうをおくれといわれました。",
+            "ko": "바로 자료를 보내라는 말을 들었습니다."
+          }
+        },
+        {
+          "id": "conj_okuru_ba",
+          "label": "ば형",
+          "form": "送れば",
+          "reading": "おくれば",
+          "transformation": "1그룹 동사는 끝 음을 e단으로 바꾸고 ば를 붙입니다. る는 れば가 됩니다.",
+          "usage": "보내면이라는 조건 표현",
+          "example": {
+            "ja": "今送れば、間に合います。",
+            "reading": "いまおくれば、まにあいます。",
+            "ko": "지금 보내면 시간에 맞습니다."
+          }
+        },
+        {
+          "id": "conj_okuru_tara",
+          "label": "たら형",
+          "form": "送ったら",
+          "reading": "おくったら",
+          "transformation": "た형 送った에 ら를 붙입니다.",
+          "usage": "보내면, 보냈더니라는 조건·계기 표현",
+          "example": {
+            "ja": "メールを送ったら、連絡してください。",
+            "reading": "メールをおくったら、れんらくしてください。",
+            "ko": "메일을 보내면 연락해 주세요."
+          }
+        },
+        {
+          "id": "conj_okuru_progressive",
+          "label": "ている형",
+          "form": "送っている",
+          "reading": "おくっている",
+          "transformation": "て형 送って에 いる를 붙입니다.",
+          "usage": "보내고 있는 중이라는 진행 표현",
+          "example": {
+            "ja": "今、メールを送っています。",
+            "reading": "いま、メールをおくっています。",
+            "ko": "지금 메일을 보내고 있습니다."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-07-13T00:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_kuru_001",
+      "type": "vocab",
+      "kanji": "来る",
+      "kana": "くる",
+      "meaningKo": "오다",
+      "partOfSpeech": "동사 / 3그룹 불규칙",
+      "sourceLabel": "ない형과 きます 구분",
+      "createdAt": "2026-07-13T00:00:00.000Z",
+      "updatedAt": "2026-07-13T00:00:00.000Z",
+      "examples": [
+        {
+          "ja": "明日、学校に来ます。",
+          "reading": "あした、がっこうにきます。",
+          "ko": "내일 학교에 옵니다."
+        },
+        {
+          "ja": "友だちが家に来ます。",
+          "reading": "ともだちがいえにきます。",
+          "ko": "친구가 집에 옵니다."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_kuru_dictionary",
+          "label": "사전형",
+          "form": "来る",
+          "reading": "くる",
+          "transformation": "기본형입니다. 来る는 불규칙 동사입니다.",
+          "usage": "오다",
+          "example": {
+            "ja": "友だちが家に来る。",
+            "reading": "ともだちがいえにくる。",
+            "ko": "친구가 집에 온다."
+          }
+        },
+        {
+          "id": "conj_kuru_masu",
+          "label": "ます형",
+          "form": "来ます",
+          "reading": "きます",
+          "transformation": "来る는 불규칙 동사라 くる가 きます로 바뀝니다.",
+          "usage": "정중한 현재·미래 표현",
+          "example": {
+            "ja": "明日、学校に来ます。",
+            "reading": "あした、がっこうにきます。",
+            "ko": "내일 학교에 옵니다."
+          }
+        },
+        {
+          "id": "conj_kuru_nai",
+          "label": "ない형",
+          "form": "来ない",
+          "reading": "こない",
+          "transformation": "来る의 ない형은 불규칙 변화라 きない가 아니라 こない입니다.",
+          "usage": "오지 않는다",
+          "example": {
+            "ja": "今日は来ない。",
+            "reading": "きょうはこない。",
+            "ko": "오늘은 오지 않는다."
+          }
+        },
+        {
+          "id": "conj_kuru_masen_past",
+          "label": "ます 과거부정",
+          "form": "来ませんでした",
+          "reading": "きませんでした",
+          "transformation": "ます형 来ます에서 ます를 ませんでした로 바꿉니다.",
+          "usage": "정중한 과거 부정 표현",
+          "example": {
+            "ja": "昨日、来ませんでした。",
+            "reading": "きのう、きませんでした。",
+            "ko": "어제 오지 않았습니다."
+          }
+        },
+        {
+          "id": "conj_kuru_te",
+          "label": "て형",
+          "form": "来て",
+          "reading": "きて",
+          "transformation": "来る의 て형은 불규칙 변화라 来て가 됩니다.",
+          "usage": "와서, 와 주세요",
+          "example": {
+            "ja": "ここに来てください。",
+            "reading": "ここにきてください。",
+            "ko": "여기로 와 주세요."
+          }
+        },
+        {
+          "id": "conj_kuru_ta",
+          "label": "た형",
+          "form": "来た",
+          "reading": "きた",
+          "transformation": "来る의 た형은 불규칙 변화라 来た가 됩니다.",
+          "usage": "왔다",
+          "example": {
+            "ja": "昨日、友だちが来た。",
+            "reading": "きのう、ともだちがきた。",
+            "ko": "어제 친구가 왔다."
+          }
+        },
+        {
+          "id": "conj_kuru_potential",
+          "label": "가능형",
+          "form": "来られる",
+          "reading": "こられる",
+          "transformation": "来る의 가능형은 来られる입니다. 회화에서는 来れる도 들리지만 표준형은 来られる입니다.",
+          "usage": "올 수 있다",
+          "example": {
+            "ja": "明日なら来られます。",
+            "reading": "あしたならこられます。",
+            "ko": "내일이라면 올 수 있습니다."
+          }
+        },
+        {
+          "id": "conj_kuru_volitional",
+          "label": "의지형",
+          "form": "来よう",
+          "reading": "こよう",
+          "transformation": "来る의 의지형은 불규칙 변화라 来よう가 됩니다.",
+          "usage": "오자, 와야지",
+          "example": {
+            "ja": "週末に来よう。",
+            "reading": "しゅうまつにこよう。",
+            "ko": "주말에 오자."
+          }
+        },
+        {
+          "id": "conj_kuru_imperative",
+          "label": "명령형",
+          "form": "来い",
+          "reading": "こい",
+          "transformation": "来る의 명령형은 불규칙 변화라 来い가 됩니다.",
+          "usage": "강한 명령 표현",
+          "example": {
+            "ja": "すぐ来いと言われました。",
+            "reading": "すぐこいといわれました。",
+            "ko": "바로 오라는 말을 들었습니다."
+          }
+        },
+        {
+          "id": "conj_kuru_ba",
+          "label": "ば형",
+          "form": "来れば",
+          "reading": "くれば",
+          "transformation": "来る의 ば형은 来れば입니다.",
+          "usage": "오면이라는 조건 표현",
+          "example": {
+            "ja": "早く来れば、間に合います。",
+            "reading": "はやくくれば、まにあいます。",
+            "ko": "빨리 오면 시간에 맞습니다."
+          }
+        },
+        {
+          "id": "conj_kuru_tara",
+          "label": "たら형",
+          "form": "来たら",
+          "reading": "きたら",
+          "transformation": "た형 来た에 ら를 붙입니다.",
+          "usage": "오면, 왔더니라는 조건·계기 표현",
+          "example": {
+            "ja": "先生が来たら、聞いてください。",
+            "reading": "せんせいがきたら、きいてください。",
+            "ko": "선생님이 오면 물어봐 주세요."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-07-13T00:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_kiku_001",
+      "type": "vocab",
+      "kanji": "聞く",
+      "kana": "きく",
+      "meaningKo": "듣다, 묻다",
+      "partOfSpeech": "동사 / 1그룹",
+      "sourceLabel": "ない형과 きます 구분",
+      "createdAt": "2026-07-13T00:00:00.000Z",
+      "updatedAt": "2026-07-13T00:00:00.000Z",
+      "examples": [
+        {
+          "ja": "音楽を聞きます。",
+          "reading": "おんがくをききます。",
+          "ko": "음악을 듣습니다."
+        },
+        {
+          "ja": "先生に聞きます。",
+          "reading": "せんせいにききます。",
+          "ko": "선생님께 묻습니다."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_kiku_dictionary",
+          "label": "사전형",
+          "form": "聞く",
+          "reading": "きく",
+          "transformation": "기본형입니다. く로 끝나는 1그룹 동사입니다.",
+          "usage": "듣다, 묻다",
+          "example": {
+            "ja": "毎日、音楽を聞く。",
+            "reading": "まいにち、おんがくをきく。",
+            "ko": "매일 음악을 듣는다."
+          }
+        },
+        {
+          "id": "conj_kiku_masu",
+          "label": "ます형",
+          "form": "聞きます",
+          "reading": "ききます",
+          "transformation": "1그룹 동사 聞く의 끝 く를 き로 바꾸고 ます를 붙입니다.",
+          "usage": "정중한 현재·미래 표현",
+          "example": {
+            "ja": "あとで先生に聞きます。",
+            "reading": "あとでせんせいにききます。",
+            "ko": "나중에 선생님께 묻겠습니다."
+          }
+        },
+        {
+          "id": "conj_kiku_nai",
+          "label": "ない형",
+          "form": "聞かない",
+          "reading": "きかない",
+          "transformation": "1그룹 동사에서 く를 あ단의 か로 바꾸고 ない를 붙입니다.",
+          "usage": "듣지 않는다, 묻지 않는다",
+          "example": {
+            "ja": "今日は音楽を聞かない。",
+            "reading": "きょうはおんがくをきかない。",
+            "ko": "오늘은 음악을 듣지 않는다."
+          }
+        },
+        {
+          "id": "conj_kiku_nakatta",
+          "label": "ない 과거",
+          "form": "聞かなかった",
+          "reading": "きかなかった",
+          "transformation": "ない형 聞かない에서 ない를 なかった로 바꿉니다.",
+          "usage": "듣지 않았다, 묻지 않았다",
+          "example": {
+            "ja": "説明を聞かなかった。",
+            "reading": "せつめいをきかなかった。",
+            "ko": "설명을 듣지 않았다."
+          }
+        },
+        {
+          "id": "conj_kiku_te",
+          "label": "て형",
+          "form": "聞いて",
+          "reading": "きいて",
+          "transformation": "く로 끝나는 1그룹 동사는 いて로 바뀝니다.",
+          "usage": "듣고, 물어봐서, 부탁 표현",
+          "example": {
+            "ja": "もう一度聞いてください。",
+            "reading": "もういちどきいてください。",
+            "ko": "한 번 더 물어봐 주세요."
+          }
+        },
+        {
+          "id": "conj_kiku_ta",
+          "label": "た형",
+          "form": "聞いた",
+          "reading": "きいた",
+          "transformation": "て형 聞いて의 て를 た로 바꿉니다.",
+          "usage": "들었다, 물었다",
+          "example": {
+            "ja": "先生に聞いた。",
+            "reading": "せんせいにきいた。",
+            "ko": "선생님께 물었다."
+          }
+        },
+        {
+          "id": "conj_kiku_potential",
+          "label": "가능형",
+          "form": "聞ける",
+          "reading": "きける",
+          "transformation": "1그룹 동사는 끝 음을 e단으로 바꾸고 る를 붙입니다. く는 ける가 됩니다.",
+          "usage": "들을 수 있다, 물어볼 수 있다",
+          "example": {
+            "ja": "ここで質問を聞けます。",
+            "reading": "ここでしつもんをきけます。",
+            "ko": "여기서 질문을 물어볼 수 있습니다."
+          }
+        },
+        {
+          "id": "conj_kiku_ba",
+          "label": "ば형",
+          "form": "聞けば",
+          "reading": "きけば",
+          "transformation": "1그룹 동사는 끝 음을 e단으로 바꾸고 ば를 붙입니다. く는 けば가 됩니다.",
+          "usage": "들으면, 물어보면",
+          "example": {
+            "ja": "よく聞けば、分かります。",
+            "reading": "よくきけば、わかります。",
+            "ko": "잘 들으면 압니다."
+          }
+        },
+        {
+          "id": "conj_kiku_tara",
+          "label": "たら형",
+          "form": "聞いたら",
+          "reading": "きいたら",
+          "transformation": "た형 聞いた에 ら를 붙입니다.",
+          "usage": "들으면, 물어보면",
+          "example": {
+            "ja": "先生に聞いたら、分かりました。",
+            "reading": "せんせいにきいたら、わかりました。",
+            "ko": "선생님께 물어봤더니 알게 되었습니다."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-07-13T00:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_osoi_001",
+      "type": "vocab",
+      "kanji": "遅い",
+      "kana": "おそい",
+      "meaningKo": "늦다, 느리다",
+      "partOfSpeech": "い형용사",
+      "sourceLabel": "새 단어: おそい/おかし",
+      "createdAt": "2026-07-13T00:00:00.000Z",
+      "updatedAt": "2026-07-13T00:00:00.000Z",
+      "examples": [
+        {
+          "ja": "今日は帰りが遅いです。",
+          "reading": "きょうはかえりがおそいです。",
+          "ko": "오늘은 귀가가 늦습니다."
+        },
+        {
+          "ja": "この電車は少し遅いです。",
+          "reading": "このでんしゃはすこしおそいです。",
+          "ko": "이 전철은 조금 느립니다."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_osoi_current",
+          "label": "현재",
+          "form": "遅い",
+          "reading": "おそい",
+          "transformation": "い형용사의 기본형입니다.",
+          "usage": "늦다, 느리다",
+          "example": {
+            "ja": "今日は帰りが遅い。",
+            "reading": "きょうはかえりがおそい。",
+            "ko": "오늘은 귀가가 늦다."
+          }
+        },
+        {
+          "id": "conj_osoi_polite",
+          "label": "정중형",
+          "form": "遅いです",
+          "reading": "おそいです",
+          "transformation": "い형용사 기본형 뒤에 です를 붙입니다.",
+          "usage": "정중하게 늦다, 느리다라고 말할 때",
+          "example": {
+            "ja": "電車が遅いです。",
+            "reading": "でんしゃがおそいです。",
+            "ko": "전철이 느립니다."
+          }
+        },
+        {
+          "id": "conj_osoi_past",
+          "label": "과거",
+          "form": "遅かった",
+          "reading": "おそかった",
+          "transformation": "끝의 い를 빼고 かった를 붙입니다.",
+          "usage": "늦었다, 느렸다",
+          "example": {
+            "ja": "昨日は帰りが遅かった。",
+            "reading": "きのうはかえりがおそかった。",
+            "ko": "어제는 귀가가 늦었다."
+          }
+        },
+        {
+          "id": "conj_osoi_negative",
+          "label": "부정",
+          "form": "遅くない",
+          "reading": "おそくない",
+          "transformation": "끝의 い를 く로 바꾸고 ない를 붙입니다.",
+          "usage": "늦지 않다, 느리지 않다",
+          "example": {
+            "ja": "このバスは遅くない。",
+            "reading": "このバスはおそくない。",
+            "ko": "이 버스는 느리지 않다."
+          }
+        },
+        {
+          "id": "conj_osoi_negative_past",
+          "label": "과거부정",
+          "form": "遅くなかった",
+          "reading": "おそくなかった",
+          "transformation": "부정형 遅くない에서 ない를 なかった로 바꿉니다.",
+          "usage": "늦지 않았다, 느리지 않았다",
+          "example": {
+            "ja": "昨日の連絡は遅くなかった。",
+            "reading": "きのうのれんらくはおそくなかった。",
+            "ko": "어제 연락은 늦지 않았다."
+          }
+        },
+        {
+          "id": "conj_osoi_te",
+          "label": "て형",
+          "form": "遅くて",
+          "reading": "おそくて",
+          "transformation": "끝의 い를 くて로 바꿉니다.",
+          "usage": "이유나 연결 표현",
+          "example": {
+            "ja": "返事が遅くて、すみません。",
+            "reading": "へんじがおそくて、すみません。",
+            "ko": "답장이 늦어서 죄송합니다."
+          }
+        },
+        {
+          "id": "conj_osoi_adverb",
+          "label": "부사형",
+          "form": "遅く",
+          "reading": "おそく",
+          "transformation": "끝의 い를 く로 바꿉니다.",
+          "usage": "느리게, 늦게",
+          "example": {
+            "ja": "もっと遅く話してください。",
+            "reading": "もっとおそくはなしてください。",
+            "ko": "좀 더 천천히 말해 주세요."
+          }
+        },
+        {
+          "id": "conj_osoi_ba",
+          "label": "ば형",
+          "form": "遅ければ",
+          "reading": "おそければ",
+          "transformation": "끝의 い를 ければ로 바꿉니다.",
+          "usage": "늦으면, 느리면",
+          "example": {
+            "ja": "遅ければ、連絡してください。",
+            "reading": "おそければ、れんらくしてください。",
+            "ko": "늦으면 연락해 주세요."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-07-13T00:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_okashi_sweets_001",
+      "type": "vocab",
+      "kanji": "お菓子",
+      "kana": "おかし",
+      "meaningKo": "과자, 간식, 단것",
+      "partOfSpeech": "명사",
+      "sourceLabel": "새 단어: おそい/おかし",
+      "createdAt": "2026-07-13T00:00:00.000Z",
+      "updatedAt": "2026-07-13T00:00:00.000Z",
+      "examples": [
+        {
+          "ja": "コンビニでお菓子を買います。",
+          "reading": "コンビニでおかしをかいます。",
+          "ko": "편의점에서 과자를 삽니다."
+        },
+        {
+          "ja": "日本のお菓子が好きです。",
+          "reading": "にほんのおかしがすきです。",
+          "ko": "일본 과자를 좋아합니다."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_okashi_basic",
+          "label": "기본형",
+          "form": "お菓子",
+          "reading": "おかし",
+          "transformation": "명사입니다. お는 공손하고 부드러운 느낌을 더하는 접두어입니다.",
+          "usage": "과자, 간식",
+          "example": {
+            "ja": "子どもがお菓子を食べます。",
+            "reading": "こどもがおかしをたべます。",
+            "ko": "아이가 과자를 먹습니다."
+          }
+        },
+        {
+          "id": "conj_okashi_no",
+          "label": "の 연결",
+          "form": "日本のお菓子",
+          "reading": "にほんのおかし",
+          "transformation": "명사 日本 뒤에 の를 붙여 뒤의 명사 お菓子를 꾸밉니다.",
+          "usage": "일본 과자",
+          "example": {
+            "ja": "これは日本のお菓子です。",
+            "reading": "これはにほんのおかしです。",
+            "ko": "이것은 일본 과자입니다."
+          }
+        },
+        {
+          "id": "conj_okashi_wo",
+          "label": "を 목적어",
+          "form": "お菓子を",
+          "reading": "おかしを",
+          "transformation": "명사 뒤에 を를 붙여 동작의 대상을 표시합니다.",
+          "usage": "과자를",
+          "example": {
+            "ja": "お菓子を買います。",
+            "reading": "おかしをかいます。",
+            "ko": "과자를 삽니다."
+          }
+        },
+        {
+          "id": "conj_okashi_ga",
+          "label": "が 주어/대상",
+          "form": "お菓子が",
+          "reading": "おかしが",
+          "transformation": "명사 뒤에 が를 붙여 주어나 좋아하는 대상을 표시합니다.",
+          "usage": "과자가, 과자를 좋아하다",
+          "example": {
+            "ja": "お菓子が好きです。",
+            "reading": "おかしがすきです。",
+            "ko": "과자를 좋아합니다."
+          }
+        },
+        {
+          "id": "conj_okashi_dewa_arimasen",
+          "label": "명사 부정",
+          "form": "お菓子ではありません",
+          "reading": "おかしではありません",
+          "transformation": "명사 뒤에 ではありません을 붙여 정중한 부정을 만듭니다.",
+          "usage": "과자가 아닙니다",
+          "example": {
+            "ja": "これはお菓子ではありません。",
+            "reading": "これはおかしではありません。",
+            "ko": "이것은 과자가 아닙니다."
+          }
+        },
+        {
+          "id": "conj_okashi_nara",
+          "label": "なら",
+          "form": "お菓子なら",
+          "reading": "おかしなら",
+          "transformation": "명사 뒤에 なら를 붙여 조건이나 화제를 만듭니다.",
+          "usage": "과자라면",
+          "example": {
+            "ja": "お菓子なら、コンビニで買えます。",
+            "reading": "おかしなら、コンビニでかえます。",
+            "ko": "과자라면 편의점에서 살 수 있습니다."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-07-13T00:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_okashii_001",
+      "type": "vocab",
+      "kanji": "おかしい",
+      "kana": "おかしい",
+      "meaningKo": "이상하다, 수상하다, 웃기다",
+      "partOfSpeech": "い형용사",
+      "sourceLabel": "새 단어: おそい/おかし",
+      "createdAt": "2026-07-13T00:00:00.000Z",
+      "updatedAt": "2026-07-13T00:00:00.000Z",
+      "examples": [
+        {
+          "ja": "この文は少しおかしいです。",
+          "reading": "このぶんはすこしおかしいです。",
+          "ko": "이 문장은 조금 이상합니다."
+        },
+        {
+          "ja": "彼の話はおかしいです。",
+          "reading": "かれのはなしはおかしいです。",
+          "ko": "그의 이야기는 이상합니다."
+        }
+      ],
+      "conjugations": [
+        {
+          "id": "conj_okashii_current",
+          "label": "현재",
+          "form": "おかしい",
+          "reading": "おかしい",
+          "transformation": "い형용사의 기본형입니다.",
+          "usage": "이상하다, 웃기다",
+          "example": {
+            "ja": "この答えはおかしい。",
+            "reading": "このこたえはおかしい。",
+            "ko": "이 답은 이상하다."
+          }
+        },
+        {
+          "id": "conj_okashii_polite",
+          "label": "정중형",
+          "form": "おかしいです",
+          "reading": "おかしいです",
+          "transformation": "い형용사 기본형 뒤에 です를 붙입니다.",
+          "usage": "정중하게 이상하다고 말할 때",
+          "example": {
+            "ja": "その説明はおかしいです。",
+            "reading": "そのせつめいはおかしいです。",
+            "ko": "그 설명은 이상합니다."
+          }
+        },
+        {
+          "id": "conj_okashii_past",
+          "label": "과거",
+          "form": "おかしかった",
+          "reading": "おかしかった",
+          "transformation": "끝의 い를 빼고 かった를 붙입니다.",
+          "usage": "이상했다, 웃겼다",
+          "example": {
+            "ja": "さっきの話はおかしかった。",
+            "reading": "さっきのはなしはおかしかった。",
+            "ko": "아까 이야기는 이상했다."
+          }
+        },
+        {
+          "id": "conj_okashii_negative",
+          "label": "부정",
+          "form": "おかしくない",
+          "reading": "おかしくない",
+          "transformation": "끝의 い를 く로 바꾸고 ない를 붙입니다.",
+          "usage": "이상하지 않다",
+          "example": {
+            "ja": "この文はおかしくない。",
+            "reading": "このぶんはおかしくない。",
+            "ko": "이 문장은 이상하지 않다."
+          }
+        },
+        {
+          "id": "conj_okashii_negative_past",
+          "label": "과거부정",
+          "form": "おかしくなかった",
+          "reading": "おかしくなかった",
+          "transformation": "부정형 おかしくない에서 ない를 なかった로 바꿉니다.",
+          "usage": "이상하지 않았다",
+          "example": {
+            "ja": "昨日の説明はおかしくなかった。",
+            "reading": "きのうのせつめいはおかしくなかった。",
+            "ko": "어제 설명은 이상하지 않았다."
+          }
+        },
+        {
+          "id": "conj_okashii_te",
+          "label": "て형",
+          "form": "おかしくて",
+          "reading": "おかしくて",
+          "transformation": "끝의 い를 くて로 바꿉니다.",
+          "usage": "이유나 연결 표현",
+          "example": {
+            "ja": "話がおかしくて、笑いました。",
+            "reading": "はなしがおかしくて、わらいました。",
+            "ko": "이야기가 웃겨서 웃었습니다."
+          }
+        },
+        {
+          "id": "conj_okashii_adverb",
+          "label": "부사형",
+          "form": "おかしく",
+          "reading": "おかしく",
+          "transformation": "끝의 い를 く로 바꿉니다.",
+          "usage": "이상하게",
+          "example": {
+            "ja": "時計がおかしく動きます。",
+            "reading": "とけいがおかしくうごきます。",
+            "ko": "시계가 이상하게 움직입니다."
+          }
+        },
+        {
+          "id": "conj_okashii_ba",
+          "label": "ば형",
+          "form": "おかしければ",
+          "reading": "おかしければ",
+          "transformation": "끝의 い를 ければ로 바꿉니다.",
+          "usage": "이상하면",
+          "example": {
+            "ja": "おかしければ、直してください。",
+            "reading": "おかしければ、なおしてください。",
+            "ko": "이상하면 고쳐 주세요."
+          }
+        }
+      ],
+      "srs": {
+        "dueAt": "2026-07-13T00:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     }
   ],
   "grammar": [
@@ -1701,6 +2634,94 @@
       ],
       "srs": {
         "dueAt": "2026-06-30T07:20:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_naikei_rules_001",
+      "type": "grammar",
+      "pattern": "ない형（ない形）",
+      "meaningKo": "~하지 않는다 / ~하지 않다",
+      "explanationKo": "동사를 부정형으로 바꾸는 형태입니다. 1그룹은 마지막 음을 あ단으로 바꾸고 ない를 붙이며, う로 끝나는 동사는 わない가 됩니다. 2그룹은 ます를 빼고 ない를 붙이고, 3그룹은 しない와 こない로 외웁니다.",
+      "formation": "1그룹: あ단 + ない / う→わない, 2그룹: ます 제거 + ない, 3그룹: します→しない・来ます→こない",
+      "sourceLabel": "ない형과 きます 구분",
+      "createdAt": "2026-07-13T00:00:00.000Z",
+      "updatedAt": "2026-07-13T00:00:00.000Z",
+      "examples": [
+        {
+          "ja": "プレゼントを送らない。",
+          "reading": "プレゼントをおくらない。",
+          "ko": "선물을 보내지 않는다."
+        },
+        {
+          "ja": "メールを送らないでください。",
+          "reading": "メールをおくらないでください。",
+          "ko": "메일을 보내지 마세요."
+        },
+        {
+          "ja": "明日、学校に来ない。",
+          "reading": "あした、がっこうにこない。",
+          "ko": "내일 학교에 오지 않는다."
+        },
+        {
+          "ja": "音楽を聞かない。",
+          "reading": "おんがくをきかない。",
+          "ko": "음악을 듣지 않는다."
+        }
+      ],
+      "notes": [
+        "おくります → おくらない: ます 제거 후 り를 ら로 바꾸고 ない를 붙입니다.",
+        "おくりない는 틀린 형태입니다.",
+        "かいます→かわない, のみます→のまない, はなします→はなさない, おくります→おくらない처럼 외우면 좋습니다.",
+        "1그룹 う는 예외적으로 わ + ない가 됩니다: あいます→あわない, かいます→かわない, いう→いわない.",
+        "ない형 변화표: う→わ, く→か, ぐ→が, す→さ, つ→た, ぬ→な, ぶ→ば, む→ま, る→ら."
+      ],
+      "srs": {
+        "dueAt": "2026-07-13T00:00:00.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "grammar_kimasu_kikimasu_001",
+      "type": "grammar",
+      "pattern": "来ます（きます） vs 聞きます（ききます）",
+      "meaningKo": "오다 vs 듣다/묻다 구분",
+      "explanationKo": "きます는 来る의 ます형으로 “오다”입니다. 聞きます는 聞く의 ます형으로 “듣다” 또는 “묻다”입니다. 가나로 보면 聞きます는 ききます처럼 き가 하나 더 들어갑니다.",
+      "formation": "来ます（きます）→ 来ない（こない） / 聞きます（ききます）→ 聞かない（きかない）",
+      "sourceLabel": "ない형과 きます 구분",
+      "createdAt": "2026-07-13T00:00:00.000Z",
+      "updatedAt": "2026-07-13T00:00:00.000Z",
+      "examples": [
+        {
+          "ja": "明日、学校に来ます。",
+          "reading": "あした、がっこうにきます。",
+          "ko": "내일 학교에 옵니다."
+        },
+        {
+          "ja": "音楽を聞きます。",
+          "reading": "おんがくをききます。",
+          "ko": "음악을 듣습니다."
+        },
+        {
+          "ja": "先生に聞きます。",
+          "reading": "せんせいにききます。",
+          "ko": "선생님께 묻습니다."
+        }
+      ],
+      "notes": [
+        "来ます（きます）는 오다, ない형은 来ない（こない）입니다.",
+        "聞きます（ききます）는 듣다/묻다, ない형은 聞かない（きかない）입니다.",
+        "시험에서 きます만 쓰여 있으면 보통 来ます를 뜻합니다.",
+        "聞きます는 ききます처럼 き가 두 번 나온다고 기억하면 구분하기 쉽습니다."
+      ],
+      "srs": {
+        "dueAt": "2026-07-13T00:00:00.000Z",
         "intervalDays": 0,
         "ease": 2.5,
         "reviews": 0,
