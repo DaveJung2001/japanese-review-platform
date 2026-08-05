@@ -2726,7 +2726,6 @@
         "lapses": 0
       }
     },
-
     {
       "id": "vocab_henkou_shimasu_business_001",
       "type": "vocab",
@@ -3163,6 +3162,136 @@
       "conjugations": [],
       "srs": {
         "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_shouchi_business_001",
+      "type": "vocab",
+      "kanji": "承知しました。",
+      "kana": "しょうちしました。",
+      "meaningKo": "알겠습니다. (비즈니스)",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T08:00:56.894Z",
+      "updatedAt": "2026-08-05T08:00:56.894Z",
+      "examples": [
+        {
+          "ja": "承知しました。",
+          "reading": "しょうちしました。",
+          "ko": "알겠습니다. (비즈니스)"
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T08:00:56.894Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_wakarimashita_business_001",
+      "type": "vocab",
+      "kanji": "分かりました。",
+      "kana": "わかりました。",
+      "meaningKo": "알겠습니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T08:00:56.894Z",
+      "updatedAt": "2026-08-05T08:00:56.894Z",
+      "examples": [
+        {
+          "ja": "分かりました。",
+          "reading": "わかりました。",
+          "ko": "알겠습니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T08:00:56.894Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_kinou_business_001",
+      "type": "vocab",
+      "kanji": "機能",
+      "kana": "きのう",
+      "meaningKo": "기능",
+      "partOfSpeech": "명사",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T08:00:56.894Z",
+      "updatedAt": "2026-08-05T08:00:56.894Z",
+      "examples": [
+        {
+          "ja": "機能",
+          "reading": "きのう",
+          "ko": "기능"
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T08:00:56.894Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_hitsuyou_business_001",
+      "type": "vocab",
+      "kanji": "必要",
+      "kana": "ひつよう",
+      "meaningKo": "필요",
+      "partOfSpeech": "명사",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T08:00:56.894Z",
+      "updatedAt": "2026-08-05T08:00:56.894Z",
+      "examples": [
+        {
+          "ja": "必要",
+          "reading": "ひつよう",
+          "ko": "필요"
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T08:00:56.894Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_yoroshiku_onegai_business_001",
+      "type": "vocab",
+      "kanji": "よろしくお願いします。",
+      "kana": "よろしくおねがいします。",
+      "meaningKo": "잘 부탁드립니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T08:00:56.894Z",
+      "updatedAt": "2026-08-05T08:00:56.894Z",
+      "examples": [
+        {
+          "ja": "よろしくお願いします。",
+          "reading": "よろしくおねがいします。",
+          "ko": "잘 부탁드립니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T08:00:56.894Z",
         "intervalDays": 0,
         "ease": 2.5,
         "reviews": 0,
