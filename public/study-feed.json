@@ -3169,32 +3169,6 @@
       }
     },
     {
-      "id": "vocab_shouchi_business_001",
-      "type": "vocab",
-      "kanji": "承知しました。",
-      "kana": "しょうちしました。",
-      "meaningKo": "알겠습니다. (비즈니스)",
-      "partOfSpeech": "표현",
-      "sourceLabel": "비즈니스 회의·고객 응대",
-      "createdAt": "2026-08-05T08:00:56.894Z",
-      "updatedAt": "2026-08-05T08:00:56.894Z",
-      "examples": [
-        {
-          "ja": "承知しました。",
-          "reading": "しょうちしました。",
-          "ko": "알겠습니다. (비즈니스)"
-        }
-      ],
-      "conjugations": [],
-      "srs": {
-        "dueAt": "2026-08-05T08:00:56.894Z",
-        "intervalDays": 0,
-        "ease": 2.5,
-        "reviews": 0,
-        "lapses": 0
-      }
-    },
-    {
       "id": "vocab_wakarimashita_business_001",
       "type": "vocab",
       "kanji": "分かりました。",
@@ -4149,6 +4123,63 @@
         "reviews": 0,
         "lapses": 0
       }
+    },
+    {
+      "id": "grammar_soredewa_hajimemasu_business_001", "type": "grammar", "pattern": "それでは始めます。", "meaningKo": "그럼 시작하겠습니다.", "explanationKo": "회의나 발표를 시작할 때 쓰는 정중한 진행 표현입니다.", "formation": "それでは + 始めます", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"それでは、定例会議を始めます。","reading":"それでは、ていれいかいぎをはじめます。","ko":"그럼 정기 회의를 시작하겠습니다."}], "notes": ["それでは는 앞선 준비나 인사 뒤에 자연스럽게 이어집니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_release_saremashita_business_001", "type": "grammar", "pattern": "Nがリリースされました。", "meaningKo": "N이 릴리스되었습니다.", "explanationKo": "제품이나 기능이 공식 배포되었음을 알리는 수동 표현입니다.", "formation": "기능·제품 + が + リリースされました", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"精算書機能がリリースされました。","reading":"せいさんしょきのうがリリースされました。","ko":"정산서 기능이 릴리스되었습니다."}], "notes": ["リリースする보다 배포 결과를 알릴 때 자연스럽습니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_kokuchi_shimashita_business_001", "type": "grammar", "pattern": "告知しました。", "meaningKo": "공지했습니다.", "explanationKo": "일정·변경 사항을 사전에 알렸다고 보고할 때 씁니다.", "formation": "告知する → 告知しました", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"お客様には先に告知しました。","reading":"おきゃくさまにはさきにこくちしました。","ko":"고객에게는 미리 공지했습니다."}], "notes": ["社内向け에는 周知しました도 자주 씁니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_nagara_susumemasu_business_001", "type": "grammar", "pattern": "Vながら進めます。", "meaningKo": "V하면서 진행하겠습니다.", "explanationKo": "두 작업을 병행한다는 계획을 말할 때 씁니다.", "formation": "동사 ます형 어간 + ながら + 進めます", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"レビューをしながら進めます。","reading":"レビューをしながらすすめます。","ko":"리뷰하면서 진행하겠습니다."}], "notes": ["ながら 앞 동사는 ます를 뺀 형태를 씁니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_kotoni_shimashita_business_001", "type": "grammar", "pattern": "Vることにしました。", "meaningKo": "V하기로 했습니다.", "explanationKo": "논의 뒤에 결정한 행동을 보고할 때 쓰는 표현입니다.", "formation": "동사 사전형 + ことにしました", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"簡単な改善から進めることにしました。","reading":"かんたんなかいぜんからすすめることにしました。","ko":"간단한 개선부터 진행하기로 했습니다."}], "notes": ["개인 또는 팀의 결정 모두에 쓸 수 있습니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_dewa_naideshouka_business_001", "type": "grammar", "pattern": "Nではないでしょうか。", "meaningKo": "N이지 않을까요?", "explanationKo": "상대에게 부드럽게 의견을 제안하거나 확인할 때 쓰는 완곡한 표현입니다.", "formation": "명사 + ではないでしょうか", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"AIゲートウェイが必要ではないでしょうか。","reading":"AIゲートウェイがひつようではないでしょうか。","ko":"AI Gateway가 필요하지 않을까요?"}], "notes": ["단정 대신 의견을 조심스럽게 낼 때 적합합니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_hannou_yokatta_business_001", "type": "grammar", "pattern": "反応が良かったと思います。", "meaningKo": "반응이 좋았다고 생각합니다.", "explanationKo": "결과에 대한 평가를 단정하지 않고 조심스럽게 말할 때 씁니다.", "formation": "반응 + が + 良かった + と思います", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"新機能への反応が良かったと思います。","reading":"しんきのうへのはんのうがよかったとおもいます。","ko":"새 기능에 대한 반응이 좋았다고 생각합니다."}], "notes": ["既存の 難しいと思います。와 다른 평가 보고 표현입니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_doudeshitaka_business_001", "type": "grammar", "pattern": "Nはどうでしたか。", "meaningKo": "N은 어땠나요?", "explanationKo": "회의에서 진행 결과나 반응을 상대에게 물을 때 씁니다.", "formation": "주제 + は + どうでしたか", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"アップセリングはどうでしたか。","reading":"アップセリングはどうでしたか。","ko":"업셀링은 어땠나요?"}], "notes": ["どうですか보다 과거의 결과를 묻습니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_nanika_arimasuka_business_001", "type": "grammar", "pattern": "何かありますか。", "meaningKo": "무언가 있습니까?", "explanationKo": "회의의 질문·추가 의견을 받을 때 쓰는 기본 표현입니다.", "formation": "何か + ありますか", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"ほかに質問は何かありますか。","reading":"ほかにしつもんはなにかありますか。","ko":"그 밖에 질문이 있습니까?"}], "notes": ["더 자연스럽게는 ほかに何かありますか라고도 합니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_keikaku_arimasuka_business_001", "type": "grammar", "pattern": "計画はありますか。", "meaningKo": "계획이 있습니까?", "explanationKo": "상대 팀의 향후 계획을 확인할 때 쓰는 정중한 질문입니다.", "formation": "계획 + は + ありますか", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"次の四半期の計画はありますか。","reading":"つぎのしはんきのけいかくはありますか。","ko":"다음 분기의 계획이 있습니까?"}], "notes": ["予定과 달리 計画은 비교적 구체적인 계획을 뜻합니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_wakarimasuka_business_001", "type": "grammar", "pattern": "分かりますか。", "meaningKo": "아시겠습니까?", "explanationKo": "설명 뒤에 상대의 이해 여부를 확인할 때 쓰는 표현입니다.", "formation": "分かります + か", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"この手順で分かりますか。","reading":"このてじゅんでわかりますか。","ko":"이 절차로 이해되십니까?"}], "notes": ["상대에게는 ご理解いただけますか가 더 공손할 수 있습니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_koushin_shimashita_business_001", "type": "grammar", "pattern": "更新しました。", "meaningKo": "업데이트했습니다.", "explanationKo": "문서·시스템·정보를 최신 상태로 바꾸었음을 보고할 때 씁니다.", "formation": "更新する → 更新しました", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"資料を更新しました。","reading":"しりょうをこうしんしました。","ko":"자료를 업데이트했습니다."}], "notes": ["変更しました는 내용 변경, 更新しました는 최신화에 초점이 있습니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_kaishuu_shimashita_business_001", "type": "grammar", "pattern": "改修しました。", "meaningKo": "개편했습니다.", "explanationKo": "시스템이나 기능을 수정·개선했음을 기술적으로 보고할 때 씁니다.", "formation": "改修する → 改修しました", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"検索機能を改修しました。","reading":"けんさくきのうをかいしゅうしました。","ko":"검색 기능을 개편했습니다."}], "notes": ["改修는 기능·시스템의 손질에 잘 어울립니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_kaizen_shimashita_business_001", "type": "grammar", "pattern": "改善しました。", "meaningKo": "개선했습니다.", "explanationKo": "문제점이나 사용성을 더 좋게 만들었음을 보고할 때 씁니다.", "formation": "改善する → 改善しました", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"表示速度を改善しました。","reading":"ひょうじそくどをかいぜんしました。","ko":"표시 속도를 개선했습니다."}], "notes": ["改修보다 결과적인 향상을 강조합니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_dekiru_youni_shimasu_business_001", "type": "grammar", "pattern": "Vできるようにします。", "meaningKo": "V할 수 있도록 하겠습니다.", "explanationKo": "기능 제공이나 개선 약속을 말할 때 쓰는 표현입니다.", "formation": "동사 가능형 + ようにします", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"管理できるようにします。","reading":"かんりできるようにします。","ko":"관리할 수 있도록 하겠습니다."}], "notes": ["의도나 조치를 말하므로 단순 가능 표현과 다릅니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_shita_houga_ii_business_001", "type": "grammar", "pattern": "Vた方がいいと思います。", "meaningKo": "V하는 편이 좋다고 생각합니다.", "explanationKo": "회의에서 완곡하게 권고할 때 쓰는 표현입니다.", "formation": "동사 た형 + 方がいいと思います", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"統合した方がいいと思います。","reading":"とうごうしたほうがいいとおもいます。","ko":"통합하는 편이 좋다고 생각합니다."}], "notes": ["명령보다 부드러운 제안으로 들립니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_tsuika_shitai_business_001", "type": "grammar", "pattern": "Nを追加したいと思っています。", "meaningKo": "N을 추가하고 싶습니다.", "explanationKo": "의견이나 향후 희망을 부드럽게 제안할 때 쓰는 표현입니다.", "formation": "명사 + を + 追加したいと思っています", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"アプリを追加したいと思っています。","reading":"アプリをついかしたいとおもっています。","ko":"앱을 추가하고 싶습니다."}], "notes": ["追加したいです보다 검토 중인 뉘앙스가 있습니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_susumeteimasu_business_001", "type": "grammar", "pattern": "Nを進めています。", "meaningKo": "N을 진행하고 있습니다.", "explanationKo": "현재 진행 중인 업무 상태를 보고할 때 쓰는 표현입니다.", "formation": "업무 명사 + を + 進めています", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"開発を進めています。","reading":"かいはつをすすめています。","ko":"개발을 진행하고 있습니다."}], "notes": ["進行しています보다 구체적으로 추진한다는 느낌이 있습니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
+    },
+    {
+      "id": "grammar_ijou_desu_business_001", "type": "grammar", "pattern": "以上です。", "meaningKo": "이상입니다.", "explanationKo": "보고나 발표를 마무리할 때 쓰는 간결한 표현입니다.", "formation": "以上 + です", "sourceLabel": "비즈니스 회의 표현 (2)", "createdAt": "2026-08-05T09:00:00.000Z", "updatedAt": "2026-08-05T09:00:00.000Z", "examples": [{"ja":"本日の報告は以上です。","reading":"ほんじつのほうこくはいじょうです。","ko":"오늘 보고는 이상입니다."}], "notes": ["더 공손하게는 以上でございます라고 할 수 있습니다."], "srs": {"dueAt":"2026-08-05T09:00:00.000Z","intervalDays":0,"ease":2.5,"reviews":0,"lapses":0}
     }
   ]
 }
