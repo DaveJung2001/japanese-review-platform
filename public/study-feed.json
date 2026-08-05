@@ -2382,10 +2382,27 @@
       "partOfSpeech": "명사 / する동사",
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
-      "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "内容を確認してから、ご連絡します。", "reading": "ないようをかくにんしてから、ごれんらくします。", "ko": "내용을 확인한 뒤 연락드리겠습니다." }],
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "内容を確認してから、ご連絡します。",
+          "reading": "ないようをかくにんしてから、ごれんらくします。",
+          "ko": "내용을 확인한 뒤 연락드리겠습니다."
+        },
+        {
+          "ja": "確認します。",
+          "reading": "かくにんします。",
+          "ko": "확인하겠습니다."
+        }
+      ],
       "conjugations": [],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "vocab_shuusei_business_001",
@@ -2396,10 +2413,27 @@
       "partOfSpeech": "명사 / する동사",
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
-      "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "資料の誤りを修正いたします。", "reading": "しりょうのあやまりをしゅうせいいたします。", "ko": "자료의 오류를 수정하겠습니다." }],
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "資料の誤りを修正いたします。",
+          "reading": "しりょうのあやまりをしゅうせいいたします。",
+          "ko": "자료의 오류를 수정하겠습니다."
+        },
+        {
+          "ja": "修正します。",
+          "reading": "しゅうせいします。",
+          "ko": "수정하겠습니다."
+        }
+      ],
       "conjugations": [],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "vocab_henkou_business_001",
@@ -2410,10 +2444,27 @@
       "partOfSpeech": "명사 / する동사",
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
-      "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "会議の開始時刻を変更いたします。", "reading": "かいぎのかいしじこくをへんこういたします。", "ko": "회의 시작 시간을 변경하겠습니다." }],
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "会議の開始時刻を変更いたします。",
+          "reading": "かいぎのかいしじこくをへんこういたします。",
+          "ko": "회의 시작 시간을 변경하겠습니다."
+        },
+        {
+          "ja": "変更します。",
+          "reading": "へんこうします。",
+          "ko": "변경합니다."
+        }
+      ],
       "conjugations": [],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "vocab_taiou_business_001",
@@ -2425,9 +2476,21 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "お問い合わせには本日中に対応いたします。", "reading": "おといあわせにはほんじつじゅうにたいおういたします。", "ko": "문의에는 오늘 안으로 대응하겠습니다." }],
+      "examples": [
+        {
+          "ja": "お問い合わせには本日中に対応いたします。",
+          "reading": "おといあわせにはほんじつじゅうにたいおういたします。",
+          "ko": "문의에는 오늘 안으로 대응하겠습니다."
+        }
+      ],
       "conjugations": [],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "vocab_kyouyuu_business_001",
@@ -2439,9 +2502,21 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "決定事項をチームで共有します。", "reading": "けっていじこうをチームできょうゆうします。", "ko": "결정 사항을 팀과 공유하겠습니다." }],
+      "examples": [
+        {
+          "ja": "決定事項をチームで共有します。",
+          "reading": "けっていじこうをチームできょうゆうします。",
+          "ko": "결정 사항을 팀과 공유하겠습니다."
+        }
+      ],
       "conjugations": [],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "vocab_shiryou_business_001",
@@ -2453,9 +2528,21 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "会議の前に資料をお送りします。", "reading": "かいぎのまえにしりょうをおおくりします。", "ko": "회의 전에 자료를 보내드리겠습니다." }],
+      "examples": [
+        {
+          "ja": "会議の前に資料をお送りします。",
+          "reading": "かいぎのまえにしりょうをおおくりします。",
+          "ko": "회의 전에 자료를 보내드리겠습니다."
+        }
+      ],
       "conjugations": [],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "vocab_keiyaku_business_001",
@@ -2467,9 +2554,21 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "契約内容を改めてご説明いたします。", "reading": "けいやくないようをあらためてごせつめいいたします。", "ko": "계약 내용을 다시 설명드리겠습니다." }],
+      "examples": [
+        {
+          "ja": "契約内容を改めてご説明いたします。",
+          "reading": "けいやくないようをあらためてごせつめいいたします。",
+          "ko": "계약 내용을 다시 설명드리겠습니다."
+        }
+      ],
       "conjugations": [],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "vocab_yotei_business_001",
@@ -2481,9 +2580,21 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "次回の打ち合わせは来週の予定です。", "reading": "じかいのうちあわせはらいしゅうのよていです。", "ko": "다음 미팅은 다음 주로 예정되어 있습니다." }],
+      "examples": [
+        {
+          "ja": "次回の打ち合わせは来週の予定です。",
+          "reading": "じかいのうちあわせはらいしゅうのよていです。",
+          "ko": "다음 미팅은 다음 주로 예정되어 있습니다."
+        }
+      ],
       "conjugations": [],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "vocab_genjiten_business_001",
@@ -2495,9 +2606,21 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "現時点では詳細を確認中です。", "reading": "げんじてんではしょうさいをかくにんちゅうです。", "ko": "현재로서는 세부 내용을 확인 중입니다." }],
+      "examples": [
+        {
+          "ja": "現時点では詳細を確認中です。",
+          "reading": "げんじてんではしょうさいをかくにんちゅうです。",
+          "ko": "현재로서는 세부 내용을 확인 중입니다."
+        }
+      ],
       "conjugations": [],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "vocab_joukyou_business_001",
@@ -2509,9 +2632,21 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "現在の状況を確認いたします。", "reading": "げんざいのじょうきょうをかくにんいたします。", "ko": "현재 상황을 확인하겠습니다." }],
+      "examples": [
+        {
+          "ja": "現在の状況を確認いたします。",
+          "reading": "げんざいのじょうきょうをかくにんいたします。",
+          "ko": "현재 상황을 확인하겠습니다."
+        }
+      ],
       "conjugations": [],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "vocab_renraku_business_001",
@@ -2523,9 +2658,516 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "進展があり次第、ご連絡いたします。", "reading": "しんてんがありしだい、ごれんらくいたします。", "ko": "진전이 생기는 대로 연락드리겠습니다." }],
+      "examples": [
+        {
+          "ja": "進展があり次第、ご連絡いたします。",
+          "reading": "しんてんがありしだい、ごれんらくいたします。",
+          "ko": "진전이 생기는 대로 연락드리겠습니다."
+        }
+      ],
       "conjugations": [],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_hai_soudesu_business_001",
+      "type": "vocab",
+      "kanji": "はい、そうです。",
+      "kana": "はい、そうです。",
+      "meaningKo": "네, 맞습니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "はい、そうです。",
+          "reading": "はい、そうです。",
+          "ko": "네, 맞습니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_hai_sonotoori_business_001",
+      "type": "vocab",
+      "kanji": "はい、その通りです。",
+      "kana": "はい、そのとおりです。",
+      "meaningKo": "네, 말씀하신 대로입니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "はい、その通りです。",
+          "reading": "はい、そのとおりです。",
+          "ko": "네, 말씀하신 대로입니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+
+    {
+      "id": "vocab_henkou_shimasu_business_001",
+      "type": "vocab",
+      "kanji": "変更します。",
+      "kana": "へんこうします。",
+      "meaningKo": "변경합니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "変更します。",
+          "reading": "へんこうします。",
+          "ko": "변경합니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_henkou_dekimasu_business_001",
+      "type": "vocab",
+      "kanji": "変更できます。",
+      "kana": "へんこうできます。",
+      "meaningKo": "변경할 수 있습니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "変更できます。",
+          "reading": "へんこうできます。",
+          "ko": "변경할 수 있습니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_henkou_dekimasen_business_001",
+      "type": "vocab",
+      "kanji": "変更できません。",
+      "kana": "へんこうできません。",
+      "meaningKo": "변경할 수 없습니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "変更できません。",
+          "reading": "へんこうできません。",
+          "ko": "변경할 수 없습니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_shuusei_shimasu_business_001",
+      "type": "vocab",
+      "kanji": "修正します。",
+      "kana": "しゅうせいします。",
+      "meaningKo": "수정하겠습니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "修正します。",
+          "reading": "しゅうせいします。",
+          "ko": "수정하겠습니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_kakunin_shimasu_business_001",
+      "type": "vocab",
+      "kanji": "確認します。",
+      "kana": "かくにんします。",
+      "meaningKo": "확인하겠습니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "確認します。",
+          "reading": "かくにんします。",
+          "ko": "확인하겠습니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_kakunin_shitekudasai_business_001",
+      "type": "vocab",
+      "kanji": "確認してください。",
+      "kana": "かくにんしてください。",
+      "meaningKo": "확인해주세요.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "確認してください。",
+          "reading": "かくにんしてください。",
+          "ko": "확인해주세요."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_mondai_arimasen_business_001",
+      "type": "vocab",
+      "kanji": "問題ありません。",
+      "kana": "もんだいありません。",
+      "meaningKo": "문제없습니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "問題ありません。",
+          "reading": "もんだいありません。",
+          "ko": "문제없습니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_daijoubu_business_001",
+      "type": "vocab",
+      "kanji": "大丈夫です。",
+      "kana": "だいじょうぶです。",
+      "meaningKo": "괜찮습니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "大丈夫です。",
+          "reading": "だいじょうぶです。",
+          "ko": "괜찮습니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_muzukashii_business_001",
+      "type": "vocab",
+      "kanji": "難しいです。",
+      "kana": "むずかしいです。",
+      "meaningKo": "어렵습니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "難しいです。",
+          "reading": "むずかしいです。",
+          "ko": "어렵습니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_kanou_desu_business_001",
+      "type": "vocab",
+      "kanji": "可能です。",
+      "kana": "かのうです。",
+      "meaningKo": "가능합니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "可能です。",
+          "reading": "かのうです。",
+          "ko": "가능합니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_fukanou_business_001",
+      "type": "vocab",
+      "kanji": "不可能です。",
+      "kana": "ふかのうです。",
+      "meaningKo": "불가능합니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "不可能です。",
+          "reading": "ふかのうです。",
+          "ko": "불가능합니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_onegai_business_001",
+      "type": "vocab",
+      "kanji": "お願いします。",
+      "kana": "おねがいします。",
+      "meaningKo": "부탁드립니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "お願いします。",
+          "reading": "おねがいします。",
+          "ko": "부탁드립니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_shoushou_omachikudasai_business_001",
+      "type": "vocab",
+      "kanji": "少々お待ちください。",
+      "kana": "しょうしょうおまちください。",
+      "meaningKo": "잠시만 기다려 주세요.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "少々お待ちください。",
+          "reading": "しょうしょうおまちください。",
+          "ko": "잠시만 기다려 주세요."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_sukoshi_omachikudasai_business_001",
+      "type": "vocab",
+      "kanji": "少しお待ちください。",
+      "kana": "すこしおまちください。",
+      "meaningKo": "잠시만 기다려 주세요. (조금 더 일상적)",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "少しお待ちください。",
+          "reading": "すこしおまちください。",
+          "ko": "잠시만 기다려 주세요. (조금 더 일상적)"
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_kakunin_onegai_business_001",
+      "type": "vocab",
+      "kanji": "確認をお願いします。",
+      "kana": "かくにんをおねがいします。",
+      "meaningKo": "확인 부탁드립니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "確認をお願いします。",
+          "reading": "かくにんをおねがいします。",
+          "ko": "확인 부탁드립니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_muzukashii_to_omoimasu_business_001",
+      "type": "vocab",
+      "kanji": "難しいと思います。",
+      "kana": "むずかしいとおもいます。",
+      "meaningKo": "어려울 것 같습니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "難しいと思います。",
+          "reading": "むずかしいとおもいます。",
+          "ko": "어려울 것 같습니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
+    },
+    {
+      "id": "vocab_genzai_henkou_yotei_nashi_business_001",
+      "type": "vocab",
+      "kanji": "現在、その変更の予定はありません。",
+      "kana": "げんざい、そのへんこうのよていはありません。",
+      "meaningKo": "현재는 그 변경 계획이 없습니다.",
+      "partOfSpeech": "표현",
+      "sourceLabel": "비즈니스 회의·고객 응대",
+      "createdAt": "2026-08-05T07:52:26.359Z",
+      "updatedAt": "2026-08-05T07:52:26.359Z",
+      "examples": [
+        {
+          "ja": "現在、その変更の予定はありません。",
+          "reading": "げんざい、そのへんこうのよていはありません。",
+          "ko": "현재는 그 변경 계획이 없습니다."
+        }
+      ],
+      "conjugations": [],
+      "srs": {
+        "dueAt": "2026-08-05T07:52:26.359Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     }
   ],
   "grammar": [
@@ -3165,9 +3807,23 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "日程の変更について、承知しました。", "reading": "にっていのへんこうについて、しょうちしました。", "ko": "일정 변경에 관해 알겠습니다." }],
-      "notes": ["고객이나 사내 업무에서 널리 쓰는 정중한 수락 표현입니다."],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "examples": [
+        {
+          "ja": "日程の変更について、承知しました。",
+          "reading": "にっていのへんこうについて、しょうちしました。",
+          "ko": "일정 변경에 관해 알겠습니다."
+        }
+      ],
+      "notes": [
+        "고객이나 사내 업무에서 널리 쓰는 정중한 수락 표현입니다."
+      ],
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "grammar_kashikomarimashita_business_001",
@@ -3179,9 +3835,23 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "明日の午前中ですね。かしこまりました。", "reading": "あしたのごぜんちゅうですね。かしこまりました。", "ko": "내일 오전이군요. 잘 알겠습니다." }],
-      "notes": ["주로 고객 응대에서 사용하며, 동료 사이에서는 다소 격식 있게 들릴 수 있습니다."],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "examples": [
+        {
+          "ja": "明日の午前中ですね。かしこまりました。",
+          "reading": "あしたのごぜんちゅうですね。かしこまりました。",
+          "ko": "내일 오전이군요. 잘 알겠습니다."
+        }
+      ],
+      "notes": [
+        "주로 고객 응대에서 사용하며, 동료 사이에서는 다소 격식 있게 들릴 수 있습니다."
+      ],
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "grammar_kakunin_renraku_business_001",
@@ -3193,9 +3863,23 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "担当者に確認のうえ、ご連絡いたします。", "reading": "たんとうしゃにかくにんのうえ、ごれんらくいたします。", "ko": "담당자에게 확인한 후 연락드리겠습니다." }],
-      "notes": ["のうえ는 '후에, 바탕으로'라는 뜻으로 업무 문서와 회화에서 모두 자연스럽습니다."],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "examples": [
+        {
+          "ja": "担当者に確認のうえ、ご連絡いたします。",
+          "reading": "たんとうしゃにかくにんのうえ、ごれんらくいたします。",
+          "ko": "담당자에게 확인한 후 연락드리겠습니다."
+        }
+      ],
+      "notes": [
+        "のうえ는 '후에, 바탕으로'라는 뜻으로 업무 문서와 회화에서 모두 자연스럽습니다."
+      ],
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "grammar_gokakunin_onegai_business_001",
@@ -3207,9 +3891,23 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "添付した資料について、ご確認をお願いいたします。", "reading": "てんぷしたしりょうについて、ごかくにんをおねがいいたします。", "ko": "첨부한 자료에 관해 확인 부탁드립니다." }],
-      "notes": ["ご確認のほどお願いいたします도 자주 쓰는 더 부드러운 변형입니다."],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "examples": [
+        {
+          "ja": "添付した資料について、ご確認をお願いいたします。",
+          "reading": "てんぷしたしりょうについて、ごかくにんをおねがいいたします。",
+          "ko": "첨부한 자료에 관해 확인 부탁드립니다."
+        }
+      ],
+      "notes": [
+        "ご確認のほどお願いいたします도 자주 쓰는 더 부드러운 변형입니다."
+      ],
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "grammar_mondai_gozaimasen_business_001",
@@ -3221,9 +3919,23 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "その進め方で問題ございません。", "reading": "そのすすめかたでもんだいございません。", "ko": "그 진행 방식으로 문제없습니다." }],
-      "notes": ["大丈夫です는 무엇이 괜찮은지 모호할 수 있어 업무에서는 구체적인 표현이 좋습니다."],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "examples": [
+        {
+          "ja": "その進め方で問題ございません。",
+          "reading": "そのすすめかたでもんだいございません。",
+          "ko": "그 진행 방식으로 문제없습니다."
+        }
+      ],
+      "notes": [
+        "大丈夫です는 무엇이 괜찮은지 모호할 수 있어 업무에서는 구체적인 표현이 좋습니다."
+      ],
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "grammar_taiou_kanou_business_001",
@@ -3235,9 +3947,23 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "そのご要望には対応可能です。", "reading": "そのごようぼうにはたいおうかのうです。", "ko": "해당 요청에는 대응 가능합니다." }],
-      "notes": ["더 공손하게는 対応可能でございます라고 말할 수 있습니다."],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "examples": [
+        {
+          "ja": "そのご要望には対応可能です。",
+          "reading": "そのごようぼうにはたいおうかのうです。",
+          "ko": "해당 요청에는 대응 가능합니다."
+        }
+      ],
+      "notes": [
+        "더 공손하게는 対応可能でございます라고 말할 수 있습니다."
+      ],
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "grammar_henkou_muzukashii_business_001",
@@ -3249,9 +3975,23 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "締切後のため、現時点では変更が難しい状況です。", "reading": "しめきりごのため、げんじてんではへんこうがむずかしいじょうきょうです。", "ko": "마감 후이므로 현재로서는 변경이 어려운 상황입니다." }],
-      "notes": ["가능하면 어려운 이유와 대안을 덧붙이면 더 좋은 고객 응대가 됩니다."],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "examples": [
+        {
+          "ja": "締切後のため、現時点では変更が難しい状況です。",
+          "reading": "しめきりごのため、げんじてんではへんこうがむずかしいじょうきょうです。",
+          "ko": "마감 후이므로 현재로서는 변경이 어려운 상황입니다."
+        }
+      ],
+      "notes": [
+        "가능하면 어려운 이유와 대안을 덧붙이면 더 좋은 고객 응대가 됩니다."
+      ],
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     },
     {
       "id": "grammar_shoushou_omachi_business_001",
@@ -3263,9 +4003,23 @@
       "sourceLabel": "비즈니스 회의·고객 응대",
       "createdAt": "2026-08-04T09:21:14.000Z",
       "updatedAt": "2026-08-04T09:21:14.000Z",
-      "examples": [{ "ja": "在庫を確認いたしますので、少々お待ちください。", "reading": "ざいこをかくにんいたしますので、しょうしょうおまちください。", "ko": "재고를 확인하겠으니 잠시만 기다려 주십시오." }],
-      "notes": ["少々は 고객 응대에서 '잠시'를 정중하게 말하는 표현입니다."],
-      "srs": { "dueAt": "2026-08-04T09:21:14.000Z", "intervalDays": 0, "ease": 2.5, "reviews": 0, "lapses": 0 }
+      "examples": [
+        {
+          "ja": "在庫を確認いたしますので、少々お待ちください。",
+          "reading": "ざいこをかくにんいたしますので、しょうしょうおまちください。",
+          "ko": "재고를 확인하겠으니 잠시만 기다려 주십시오."
+        }
+      ],
+      "notes": [
+        "少々は 고객 응대에서 '잠시'를 정중하게 말하는 표현입니다."
+      ],
+      "srs": {
+        "dueAt": "2026-08-04T09:21:14.000Z",
+        "intervalDays": 0,
+        "ease": 2.5,
+        "reviews": 0,
+        "lapses": 0
+      }
     }
   ]
 }
